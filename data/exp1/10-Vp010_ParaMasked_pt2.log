@@ -1,0 +1,2660 @@
+Scenario - 
+
+Logfile written - 01/30/2014 15:54:32
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+10	1	Response	3	26362	36229	1
+
+10	2	Response	3	32281	5790	1
+
+10	3	Picture	fix	32330	0	1	30123	2	0	30000	other	0
+
+10	4	Picture	MorphM10_03_orig.jpg	62585	0	1	35961	2	0	next	incorrect	5
+
+10	4	Response	2	98431	35846	1
+
+10	5	Picture	MorphM7_08_noe.jpg	98546	0	1	9555	2	0	next	hit	7
+
+10	5	Response	1	108030	9484	1
+
+10	6	Picture	MorphM6_09_noe.jpg	108101	0	1	9952	2	0	next	incorrect	9
+
+10	6	Response	2	117950	9849	1
+
+10	7	Picture	MorphM9_05_noe.jpg	118053	0	1	32511	2	0	next	incorrect	11
+
+10	7	Response	2	150430	32377	1
+
+10	8	Picture	MorphF8_01_noe.jpg	150564	0	1	7298	2	0	next	incorrect	13
+
+10	8	Response	2	157790	7226	1
+
+10	9	Picture	MorphM8_10_nom.jpg	157862	0	1	9687	2	0	next	hit	15
+
+10	9	Response	1	167470	9608	1
+
+10	10	Picture	MorphM10_09_nom.jpg	167549	0	1	10616	2	0	next	incorrect	17
+
+10	10	Response	2	178110	10561	1
+
+10	11	Picture	MorphF5_00_noe.jpg	178165	0	1	6768	2	0	next	hit	19
+
+10	11	Response	1	184829	6664	1
+
+10	12	Picture	MorphF8_04_orig.jpg	184933	0	1	10085	2	0	next	incorrect	21
+
+10	12	Response	2	194989	10056	1
+
+10	13	Picture	MorphM1_06_noe.jpg	195018	0	1	8214	148	0	next	hit	23
+
+10	13	Response	1	203229	8211	1
+
+10	14	Picture	MorphM10_00_nom.jpg	203232	0	147	16600	148	0	next	incorrect	25
+
+10	14	Response	2	219789	16557	1
+
+10	15	Picture	MorphM2_09_nom.jpg	219832	0	1	14863	2	0	next	hit	27
+
+10	15	Response	1	234589	14757	1
+
+10	16	Picture	MorphM1_05_noe.jpg	234695	0	1	17383	2	0	next	incorrect	29
+
+10	16	Response	2	252028	17333	2
+
+10	17	Picture	MorphF5_04_nom.jpg	252078	0	1	9023	3	0	next	incorrect	31
+
+10	17	Response	2	260988	8910	1
+
+10	18	Picture	MorphF1_00_noe.jpg	261101	0	2	7011	158	0	next	hit	33
+
+10	18	Response	1	268108	7007	1
+
+10	19	Picture	MorphM10_09_noe.jpg	268112	0	156	6525	157	0	next	hit	35
+
+10	19	Response	1	274508	6396	1
+
+10	20	Picture	MorphM7_04_nom.jpg	274637	0	1	7962	2	0	next	hit	37
+
+10	20	Response	1	282508	7871	1
+
+10	21	Picture	MorphM4_01_nom.jpg	282599	0	1	8492	2	0	next	incorrect	39
+
+10	21	Response	2	290987	8388	2
+
+10	22	Picture	MorphM10_10_orig.jpg	291091	0	1	6502	2	0	next	hit	41
+
+10	22	Response	1	297547	6456	2
+
+10	23	Picture	MorphF9_04_nom.jpg	297593	0	1	5972	2	0	next	hit	43
+
+10	23	Response	1	303468	5875	1
+
+10	24	Picture	MorphM4_07_orig.jpg	303565	0	1	8094	2	0	next	hit	45
+
+10	24	Response	1	311548	7983	1
+
+10	25	Picture	MorphF7_07_nom.jpg	311659	0	1	6237	2	0	next	hit	47
+
+10	25	Response	1	317788	6129	1
+
+10	26	Picture	MorphM9_07_orig.jpg	317896	0	1	7015	153	0	next	incorrect	49
+
+10	26	Response	2	324908	7012	1
+
+10	27	Picture	MorphF3_09_orig.jpg	324911	0	152	8378	153	0	next	hit	51
+
+10	27	Response	1	333147	8236	1
+
+10	28	Picture	MorphM7_05_orig.jpg	333289	0	1	7431	2	0	next	hit	53
+
+10	28	Response	1	340667	7378	1
+
+10	29	Picture	MorphM6_05_orig.jpg	340720	0	1	11678	2	0	next	incorrect	55
+
+10	29	Response	2	352267	11547	1
+
+10	30	Picture	MorphM9_03_noe.jpg	352398	0	1	6635	2	0	next	incorrect	57
+
+10	30	Response	2	358987	6589	1
+
+10	31	Picture	MorphF9_10_noe.jpg	359033	0	1	6900	2	0	next	hit	59
+
+10	31	Response	1	365867	6834	1
+
+10	32	Picture	MorphM5_08_orig.jpg	365933	0	1	11279	2	0	next	hit	61
+
+10	32	Response	1	377067	11134	1
+
+10	33	Picture	MorphF6_10_orig.jpg	377212	0	1	5839	2	0	next	hit	63
+
+10	33	Response	1	382907	5695	1
+
+10	34	Picture	MorphM8_09_nom.jpg	383051	0	1	5971	2	0	next	hit	65
+
+10	34	Response	1	388907	5856	1
+
+10	35	Picture	MorphM10_01_nom.jpg	389022	0	1	6635	2	0	next	incorrect	67
+
+10	35	Response	2	395627	6605	1
+
+10	36	Picture	MorphF3_02_orig.jpg	395657	0	1	8758	2	0	next	incorrect	69
+
+10	36	Response	2	404347	8690	1
+
+10	37	Picture	MorphM1_03_nom.jpg	404415	0	1	6370	2	0	next	incorrect	71
+
+10	37	Response	2	410747	6332	1
+
+10	38	Picture	MorphF4_09_nom.jpg	410785	0	1	6369	2	0	next	hit	73
+
+10	38	Response	1	417066	6281	1
+
+10	39	Picture	MorphM2_09_orig.jpg	417154	0	1	7166	2	0	next	hit	75
+
+10	39	Response	1	424186	7032	1
+
+10	40	Picture	MorphM9_03_orig.jpg	424320	0	1	6750	152	0	next	incorrect	77
+
+10	40	Response	2	431066	6746	1
+
+10	41	Picture	MorphF10_07_noe.jpg	431070	0	151	6785	152	0	next	hit	79
+
+10	41	Response	1	437786	6716	1
+
+10	42	Picture	MorphF9_01_nom.jpg	437855	0	1	7431	2	0	next	incorrect	81
+
+10	42	Response	2	445146	7291	1
+
+10	43	Picture	MorphM9_08_nom.jpg	445286	0	1	6635	2	0	next	incorrect	83
+
+10	43	Response	2	451866	6580	1
+
+10	44	Picture	MorphF8_02_nom.jpg	451921	0	1	5948	158	0	next	incorrect	85
+
+10	44	Response	2	457866	5945	1
+
+10	45	Picture	MorphF5_07_orig.jpg	457869	0	157	6393	158	0	next	hit	87
+
+10	45	Response	1	464186	6317	1
+
+10	46	Picture	MorphM2_10_orig.jpg	464262	0	1	6087	152	0	next	hit	89
+
+10	46	Response	1	470346	6084	1
+
+10	47	Picture	MorphF7_02_nom.jpg	470349	0	151	7714	152	0	next	hit	91
+
+10	47	Response	1	477946	7597	1
+
+10	48	Picture	MorphF8_00_nom.jpg	478063	0	1	6502	2	0	next	incorrect	93
+
+10	48	Response	2	484506	6443	1
+
+10	49	Picture	MorphM2_09_noe.jpg	484565	0	1	7962	2	0	next	incorrect	95
+
+10	49	Response	2	492425	7860	1
+
+10	50	Picture	MorphM6_06_orig.jpg	492527	0	1	7033	2	0	next	incorrect	97
+
+10	50	Response	2	499465	6938	1
+
+10	51	Picture	MorphF1_07_noe.jpg	499560	0	1	7696	2	0	next	hit	99
+
+10	51	Response	1	507145	7585	1
+
+10	52	Picture	MorphM8_00_orig.jpg	507256	0	1	8095	2	0	next	incorrect	101
+
+10	52	Response	2	515225	7969	1
+
+10	53	Picture	MorphM4_02_noe.jpg	515351	0	1	7431	2	0	next	hit	103
+
+10	53	Response	1	522665	7314	1
+
+10	54	Picture	MorphM10_01_orig.jpg	522782	0	1	6635	2	0	next	incorrect	105
+
+10	54	Response	2	529385	6603	1
+
+10	55	Picture	MorphM6_07_orig.jpg	529417	0	1	18976	2	0	next	incorrect	107
+
+10	55	Response	2	548345	18928	1
+
+10	56	Picture	MorphF5_02_noe.jpg	548393	0	1	12595	146	0	next	incorrect	109
+
+10	56	Response	2	560985	12592	1
+
+10	57	Picture	MorphF7_08_orig.jpg	560988	0	145	6513	146	0	next	hit	111
+
+10	57	Response	1	567385	6397	1
+
+10	58	Picture	MorphM3_10_orig.jpg	567501	0	1	7564	2	0	next	hit	113
+
+10	58	Response	1	574984	7483	1
+
+10	59	Picture	MorphF6_09_noe.jpg	575065	0	1	7962	2	0	next	hit	115
+
+10	59	Response	1	582904	7839	1
+
+10	60	Picture	MorphM9_07_nom.jpg	583027	0	1	5440	2	0	next	hit	117
+
+10	60	Response	1	588424	5397	1
+
+10	61	Picture	MorphF3_05_noe.jpg	588467	0	1	12474	2	0	next	hit	119
+
+10	61	Response	1	600904	12437	1
+
+10	62	Picture	MorphF4_04_orig.jpg	600941	0	1	6900	2	0	next	incorrect	121
+
+10	62	Response	2	607784	6843	1
+
+10	63	Picture	MorphM8_05_orig.jpg	607841	0	1	6237	2	0	next	hit	123
+
+10	63	Response	1	614024	6183	1
+
+10	64	Picture	MorphF5_00_orig.jpg	614078	0	1	9289	2	0	next	incorrect	125
+
+10	64	Response	2	623224	9146	1
+
+10	65	Picture	MorphF4_03_nom.jpg	623367	0	1	13137	2	0	next	incorrect	127
+
+10	65	Response	2	636424	13057	1
+
+10	66	Picture	MorphM8_03_orig.jpg	636504	0	1	5972	2	0	next	hit	129
+
+10	66	Response	1	642424	5920	1
+
+10	67	Picture	MorphF7_05_nom.jpg	642476	0	1	6351	153	0	next	hit	131
+
+10	67	Response	1	648824	6348	1
+
+10	68	Picture	MorphF4_01_nom.jpg	648827	0	152	5840	302	0	next	incorrect	133
+
+10	68	Response	2	654663	5836	1
+
+10	69	Picture	MorphM10_06_orig.jpg	654667	0	150	5988	151	0	next	hit	135
+
+10	69	Response	1	660583	5916	1
+
+10	70	Picture	MorphF6_04_nom.jpg	660655	0	1	12872	2	0	next	hit	137
+
+10	70	Response	1	673383	12728	1
+
+10	71	Picture	MorphF4_00_orig.jpg	673527	0	1	6767	3	0	next	incorrect	139
+
+10	71	Response	2	680263	6736	1
+
+10	72	Picture	MorphM10_06_nom.jpg	680294	0	2	7299	3	0	next	hit	141
+
+10	72	Response	1	687463	7169	1
+
+10	73	Picture	MorphF8_03_noe.jpg	687593	0	1	7431	2	0	next	incorrect	143
+
+10	73	Response	2	694983	7390	1
+
+10	74	Picture	MorphF6_03_noe.jpg	695024	0	1	6104	2	0	next	hit	145
+
+10	74	Response	1	700983	5959	1
+
+10	75	Picture	MorphM6_02_noe.jpg	701128	0	1	10881	2	0	next	incorrect	147
+
+10	75	Response	2	711943	10815	1
+
+10	76	Picture	MorphF4_05_orig.jpg	712009	0	1	6237	2	0	next	incorrect	149
+
+10	76	Response	2	718103	6094	1
+
+10	77	Picture	MorphM1_10_orig.jpg	718246	0	1	5441	2	0	next	hit	151
+
+10	77	Response	1	723623	5377	1
+
+10	78	Picture	MorphF3_04_noe.jpg	723687	0	1	5175	2	0	next	hit	153
+
+10	78	Response	1	728822	5135	1
+
+10	79	Picture	MorphF6_09_orig.jpg	728862	0	1	5441	2	0	next	hit	155
+
+10	79	Response	1	734182	5320	1
+
+10	80	Picture	MorphF8_01_nom.jpg	734303	0	1	6634	3	0	next	incorrect	157
+
+10	80	Response	2	740902	6599	1
+
+10	81	Picture	MorphM10_03_noe.jpg	740937	0	2	9808	148	0	next	hit	159
+
+10	81	Response	1	750742	9805	1
+
+10	82	Picture	MorphM2_03_noe.jpg	750745	0	146	9566	147	0	next	incorrect	161
+
+10	82	Response	2	760182	9437	1
+
+10	83	Picture	MorphF7_08_noe.jpg	760311	0	1	4910	2	0	next	hit	163
+
+10	83	Response	1	765142	4831	1
+
+10	84	Picture	MorphM5_10_nom.jpg	765221	0	1	7284	149	0	next	hit	165
+
+10	84	Response	1	772502	7281	1
+
+10	85	Picture	MorphM8_07_noe.jpg	772505	0	148	9680	303	0	next	hit	167
+
+10	85	Response	1	782182	9677	1
+
+10	86	Picture	MorphM10_05_noe.jpg	782185	0	155	5993	156	0	next	incorrect	169
+
+10	86	Response	2	788102	5917	1
+
+10	87	Picture	MorphF5_03_orig.jpg	788178	0	1	13004	2	0	next	incorrect	171
+
+10	87	Response	2	801142	12964	1
+
+10	88	Picture	MorphF6_07_nom.jpg	801182	0	1	12739	2	0	next	hit	173
+
+10	88	Response	1	813861	12679	1
+
+10	89	Picture	MorphF8_00_orig.jpg	813921	0	1	6370	2	0	next	incorrect	175
+
+10	89	Response	2	820261	6340	1
+
+10	90	Picture	MorphF10_05_noe.jpg	820291	0	1	5706	2	0	next	hit	177
+
+10	90	Response	1	825861	5570	1
+
+10	91	Picture	MorphF8_02_noe.jpg	825997	0	1	7696	2	0	next	incorrect	179
+
+10	91	Response	2	833621	7624	1
+
+10	92	Picture	MorphM2_05_nom.jpg	833693	0	1	6768	2	0	next	hit	181
+
+10	92	Response	1	840421	6728	1
+
+10	93	Picture	MorphF7_06_nom.jpg	840461	0	1	7298	2	0	next	hit	183
+
+10	93	Response	1	847621	7160	1
+
+10	94	Picture	MorphF5_10_orig.jpg	847759	0	1	7431	2	0	next	hit	185
+
+10	94	Response	1	855061	7302	1
+
+10	95	Picture	MorphF1_02_noe.jpg	855190	0	1	6635	2	0	next	hit	187
+
+10	95	Response	1	861701	6511	1
+
+10	96	Picture	MorphF2_03_noe.jpg	861825	0	1	6237	2	0	next	hit	189
+
+10	96	Response	1	867941	6116	1
+
+10	97	Picture	MorphM4_01_noe.jpg	868062	0	1	6635	2	0	next	hit	191
+
+10	97	Response	1	874661	6599	1
+
+10	98	Picture	MorphF10_01_orig.jpg	874697	0	1	9952	2	0	next	hit	193
+
+10	98	Response	1	884580	9883	2
+
+10	99	Picture	MorphM10_02_nom.jpg	884649	0	1	7166	2	0	next	hit	195
+
+10	99	Response	1	891780	7131	1
+
+10	100	Picture	MorphF8_09_noe.jpg	891815	0	1	10085	2	0	next	hit	197
+
+10	100	Response	1	901780	9965	1
+
+10	101	Picture	MorphM2_01_nom.jpg	901900	0	1	9403	153	0	next	incorrect	199
+
+10	101	Response	2	911300	9400	1
+
+10	102	Picture	MorphF8_07_orig.jpg	911303	0	152	7715	153	0	next	hit	201
+
+10	102	Response	1	918900	7597	1
+
+10	103	Picture	MorphF5_05_nom.jpg	919018	0	1	9805	150	0	next	incorrect	203
+
+10	103	Response	2	928820	9802	1
+
+10	104	Picture	MorphM9_07_noe.jpg	928823	0	149	11680	295	0	next	incorrect	205
+
+10	104	Response	2	940500	11677	1
+
+10	105	Picture	MorphM10_08_orig.jpg	940503	0	146	6514	147	0	next	hit	207
+
+10	105	Response	1	946980	6477	1
+
+10	106	Picture	MorphM7_08_nom.jpg	947017	0	1	6901	2	0	next	hit	209
+
+10	106	Response	1	953780	6763	1
+
+10	107	Picture	MorphM10_02_noe.jpg	953918	0	1	7829	2	0	next	hit	211
+
+10	107	Response	1	961700	7782	1
+
+10	108	Picture	MorphM3_07_orig.jpg	961747	0	1	8094	3	0	next	hit	213
+
+10	108	Response	1	969779	8032	1
+
+10	109	Picture	MorphF10_00_noe.jpg	969841	0	2	7432	3	0	next	hit	215
+
+10	109	Response	1	977139	7298	1
+
+10	110	Picture	MorphF3_02_nom.jpg	977273	0	1	10615	2	0	next	incorrect	217
+
+10	110	Response	2	987779	10506	1
+
+10	111	Picture	MorphM6_08_nom.jpg	987888	0	1	10749	2	0	next	hit	219
+
+10	111	Response	1	998499	10611	1
+
+10	112	Picture	MorphM2_00_noe.jpg	998637	0	1	14729	2	0	next	incorrect	221
+
+10	112	Response	2	1013299	14662	1
+
+10	113	Picture	MorphF8_01_orig.jpg	1013366	0	1	6237	2	0	next	incorrect	223
+
+10	113	Response	2	1019459	6093	1
+
+10	114	Picture	MorphF2_00_noe.jpg	1019603	0	1	9539	150	0	next	incorrect	225
+
+10	114	Response	2	1029139	9536	1
+
+10	115	Picture	MorphM4_10_orig.jpg	1029142	0	149	6240	295	0	next	hit	227
+
+10	115	Response	1	1035379	6237	1
+
+10	116	Picture	MorphF5_10_noe.jpg	1035382	0	146	9280	301	0	next	hit	229
+
+10	116	Response	1	1044658	9276	1
+
+10	117	Picture	MorphM10_07_nom.jpg	1044662	0	155	5440	311	0	next	hit	231
+
+10	117	Response	1	1050098	5436	1
+
+10	118	Picture	MorphF2_00_orig.jpg	1050102	0	156	5197	157	0	next	hit	233
+
+10	118	Response	1	1055218	5116	1
+
+10	119	Picture	MorphM9_02_orig.jpg	1055299	0	1	6900	2	0	next	incorrect	235
+
+10	119	Response	2	1062098	6799	1
+
+10	120	Picture	MorphF3_09_noe.jpg	1062199	0	1	6104	2	0	next	hit	237
+
+10	120	Response	1	1068178	5979	1
+
+10	121	Picture	MorphF7_00_nom.jpg	1068303	0	1	10351	2	0	next	hit	239
+
+10	121	Response	1	1078578	10275	1
+
+10	122	Picture	MorphM10_05_nom.jpg	1078654	0	1	6767	2	0	next	hit	241
+
+10	122	Response	1	1085298	6644	1
+
+10	123	Picture	MorphF3_00_nom.jpg	1085421	0	1	6105	2	0	next	incorrect	243
+
+10	123	Response	2	1091458	6037	1
+
+10	124	Picture	MorphF8_00_noe.jpg	1091526	0	1	8227	2	0	next	incorrect	245
+
+10	124	Response	2	1099698	8172	1
+
+10	125	Picture	MorphM6_07_nom.jpg	1099753	0	1	7148	152	0	next	hit	247
+
+10	125	Response	1	1106898	7145	1
+
+10	126	Picture	MorphM2_06_noe.jpg	1106901	0	151	8112	152	0	next	incorrect	249
+
+10	126	Response	2	1114977	8076	1
+
+10	127	Picture	MorphF7_09_nom.jpg	1115013	0	1	6237	2	0	next	hit	251
+
+10	127	Response	1	1121137	6124	1
+
+10	128	Picture	MorphM3_05_orig.jpg	1121250	0	1	27867	2	0	next	incorrect	253
+
+10	128	Response	2	1148977	27727	1
+
+10	129	Picture	MorphM7_03_nom.jpg	1149117	0	1	8227	2	0	next	hit	255
+
+10	129	Response	1	1157297	8180	1
+
+10	130	Picture	MorphM1_09_noe.jpg	1157344	0	1	6237	2	0	next	hit	257
+
+10	130	Response	1	1163457	6113	1
+
+10	131	Picture	MorphF9_06_noe.jpg	1163581	0	1	9288	2	0	next	incorrect	259
+
+10	131	Response	2	1172737	9156	1
+
+10	132	Picture	MorphM9_06_nom.jpg	1172869	0	1	14597	2	0	next	incorrect	261
+
+10	132	Response	2	1187377	14508	1
+
+10	133	Picture	MorphM1_05_orig.jpg	1187466	0	1	6901	2	0	next	hit	263
+
+10	133	Response	1	1194337	6871	1
+
+10	134	Picture	MorphM8_03_noe.jpg	1194367	0	1	13004	2	0	next	hit	265
+
+10	134	Response	1	1207296	12929	1
+
+10	135	Picture	MorphM9_00_noe.jpg	1207371	0	1	16569	153	0	next	incorrect	267
+
+10	135	Response	2	1223936	16565	1
+
+10	136	Picture	MorphM3_10_noe.jpg	1223940	0	152	8245	153	0	next	hit	269
+
+10	136	Response	1	1232096	8156	1
+
+10	137	Picture	MorphM8_04_nom.jpg	1232185	0	1	6105	2	0	next	hit	271
+
+10	137	Response	1	1238256	6071	1
+
+10	138	Picture	MorphM2_02_nom.jpg	1238290	0	1	6502	2	0	next	incorrect	273
+
+10	138	Response	2	1244736	6446	1
+
+10	139	Picture	MorphM8_01_noe.jpg	1244792	0	1	9023	2	0	next	incorrect	275
+
+10	139	Response	2	1253696	8904	1
+
+10	140	Picture	MorphM3_00_orig.jpg	1253815	0	1	9820	2	0	next	incorrect	277
+
+10	140	Response	2	1263536	9721	1
+
+10	141	Picture	MorphM2_01_noe.jpg	1263635	0	1	7564	2	0	next	incorrect	279
+
+10	141	Response	2	1271056	7421	1
+
+10	142	Picture	MorphM3_09_noe.jpg	1271199	0	1	5838	2	0	next	incorrect	281
+
+10	142	Response	2	1276895	5696	1
+
+10	143	Picture	MorphM2_05_noe.jpg	1277037	0	1	8228	2	0	next	incorrect	283
+
+10	143	Response	2	1285135	8098	1
+
+10	144	Picture	MorphF9_03_noe.jpg	1285265	0	1	13137	2	0	next	incorrect	285
+
+10	144	Response	2	1298335	13070	1
+
+10	145	Picture	MorphM1_01_orig.jpg	1298402	0	1	10483	2	0	next	hit	287
+
+10	145	Response	1	1308815	10413	1
+
+10	146	Picture	MorphF5_02_nom.jpg	1308885	0	1	6369	2	0	next	hit	289
+
+10	146	Response	1	1315135	6250	1
+
+10	147	Picture	MorphM9_08_orig.jpg	1315254	0	1	20684	152	0	next	hit	291
+
+10	147	Response	1	1335935	20681	1
+
+10	148	Picture	MorphF7_01_nom.jpg	1335938	0	151	6918	152	0	next	hit	293
+
+10	148	Response	1	1342735	6797	1
+
+10	149	Picture	MorphM3_00_nom.jpg	1342856	0	1	11942	2	0	next	hit	295
+
+10	149	Response	1	1354734	11878	1
+
+10	150	Picture	MorphF3_08_nom.jpg	1354798	0	1	9024	2	0	next	incorrect	297
+
+10	150	Response	2	1363694	8896	1
+
+10	151	Picture	MorphF4_08_nom.jpg	1363822	0	1	29990	2	0	next	hit	299
+
+10	151	Response	1	1393694	29872	1
+
+10	152	Picture	MorphF6_05_orig.jpg	1393812	0	1	6900	2	0	next	hit	301
+
+10	152	Response	1	1400574	6762	1
+
+10	153	Picture	MorphM8_04_orig.jpg	1400712	0	1	17118	2	0	next	hit	303
+
+10	153	Response	1	1417774	17062	1
+
+10	154	Picture	MorphF3_04_nom.jpg	1417830	0	1	6347	157	0	next	incorrect	305
+
+10	154	Response	2	1424174	6344	1
+
+10	155	Picture	MorphM9_04_noe.jpg	1424177	0	156	9311	157	0	next	hit	307
+
+10	155	Response	1	1433373	9196	1
+
+10	156	Picture	MorphF9_07_noe.jpg	1433488	0	1	8891	2	0	next	hit	309
+
+10	156	Response	1	1442253	8765	1
+
+10	157	Picture	MorphF10_07_nom.jpg	1442379	0	1	12739	2	0	next	hit	311
+
+10	157	Response	1	1455053	12674	1
+
+10	158	Picture	MorphF7_02_orig.jpg	1455118	0	1	9538	151	0	next	hit	313
+
+10	158	Response	1	1464653	9535	1
+
+10	159	Picture	MorphF1_04_noe.jpg	1464656	0	150	11959	151	0	next	hit	315
+
+10	159	Response	1	1476493	11837	1
+
+10	160	Picture	MorphF6_02_orig.jpg	1476615	0	1	13535	2	0	next	incorrect	317
+
+10	160	Response	2	1490013	13398	1
+
+10	161	Picture	MorphF9_04_orig.jpg	1490150	0	1	10484	2	0	next	incorrect	319
+
+10	161	Response	2	1500493	10343	1
+
+10	162	Picture	MorphM8_09_orig.jpg	1500634	0	1	8359	3	0	next	hit	321
+
+10	162	Response	1	1508892	8258	1
+
+10	163	Picture	MorphM1_05_nom.jpg	1508993	0	2	8228	3	0	next	incorrect	323
+
+10	163	Response	2	1517132	8139	1
+
+10	164	Picture	MorphF2_02_noe.jpg	1517221	0	1	9156	2	0	next	incorrect	325
+
+10	164	Response	2	1526332	9111	1
+
+10	165	Picture	MorphM8_00_noe.jpg	1526377	0	1	16322	2	0	next	incorrect	327
+
+10	165	Response	2	1542572	16195	1
+
+10	166	Picture	MorphF4_08_noe.jpg	1542699	0	1	9289	2	0	next	hit	329
+
+10	166	Response	1	1551932	9233	1
+
+10	167	Picture	MorphF7_03_nom.jpg	1551988	0	1	7431	2	0	next	hit	331
+
+10	167	Response	1	1559372	7384	1
+
+10	168	Picture	MorphM7_02_orig.jpg	1559419	0	1	6369	2	0	next	hit	333
+
+10	168	Response	1	1565692	6273	1
+
+10	169	Picture	MorphM4_08_orig.jpg	1565788	0	1	6901	2	0	next	hit	335
+
+10	169	Response	1	1572652	6864	1
+
+10	170	Picture	MorphF9_05_orig.jpg	1572689	0	1	15260	2	0	next	incorrect	337
+
+10	170	Response	2	1587851	15162	1
+
+10	171	Picture	MorphF1_01_orig.jpg	1587949	0	1	10748	2	0	next	incorrect	339
+
+10	171	Response	2	1598571	10622	1
+
+10	172	Picture	MorphF5_05_noe.jpg	1598697	0	1	31582	3	0	next	hit	341
+
+10	172	Response	1	1630251	31554	1
+
+10	173	Picture	MorphM5_10_orig.jpg	1630279	0	2	20171	3	0	next	hit	343
+
+10	173	Response	1	1650331	20052	1
+
+10	174	Picture	MorphF1_09_nom.jpg	1650450	0	1	26805	2	0	next	hit	345
+
+10	174	Response	1	1677130	26680	1
+
+10	175	Picture	MorphF7_03_noe.jpg	1677255	0	1	13535	2	0	next	incorrect	347
+
+10	175	Response	2	1690650	13395	1
+
+10	176	Picture	MorphM5_09_orig.jpg	1690790	0	1	5971	2	0	next	hit	349
+
+10	176	Response	1	1696650	5860	1
+
+10	177	Picture	MorphF4_05_noe.jpg	1696761	0	1	7564	2	0	next	hit	351
+
+10	177	Response	1	1704250	7489	1
+
+10	178	Picture	MorphM7_03_orig.jpg	1704325	0	1	6104	2	0	next	hit	353
+
+10	178	Response	1	1710330	6005	1
+
+10	179	Picture	MorphM1_06_orig.jpg	1710429	0	1	9687	2	0	next	hit	355
+
+10	179	Response	1	1720010	9581	1
+
+10	180	Picture	MorphF9_03_nom.jpg	1720116	0	1	13270	2	0	next	incorrect	357
+
+10	180	Response	2	1733290	13174	1
+
+10	181	Picture	MorphF7_09_orig.jpg	1733386	0	1	7431	2	0	next	hit	359
+
+10	181	Response	1	1740729	7343	1
+
+10	182	Picture	MorphF8_07_noe.jpg	1740817	0	1	21762	2	0	next	hit	361
+
+10	182	Response	1	1762489	21672	1
+
+10	183	Picture	MorphF3_01_nom.jpg	1762579	0	1	12076	2	0	next	incorrect	363
+
+10	183	Response	2	1774569	11990	1
+
+10	184	Picture	MorphM10_04_nom.jpg	1774655	0	1	15393	2	0	next	hit	365
+
+10	184	Response	1	1790009	15354	1
+
+10	185	Picture	MorphM9_04_orig.jpg	1790048	0	1	7696	2	0	next	incorrect	367
+
+10	185	Response	2	1797609	7561	1
+
+10	186	Picture	MorphF1_09_orig.jpg	1797744	0	1	10085	2	0	next	hit	369
+
+10	186	Response	1	1807689	9945	1
+
+10	187	Picture	MorphF3_10_noe.jpg	1807829	0	1	6503	2	0	next	hit	371
+
+10	187	Response	1	1814249	6420	1
+
+10	188	Picture	MorphM7_09_orig.jpg	1814332	0	1	6369	2	0	next	hit	373
+
+10	188	Response	1	1820648	6316	1
+
+10	189	Picture	MorphM10_03_nom.jpg	1820701	0	1	7829	2	0	next	hit	375
+
+10	189	Response	1	1828488	7787	1
+
+10	190	Picture	MorphF9_06_nom.jpg	1828530	0	1	6768	2	0	next	hit	377
+
+10	190	Response	1	1835208	6678	1
+
+10	191	Picture	MorphM2_01_orig.jpg	1835298	0	1	12606	2	0	next	incorrect	379
+
+10	191	Response	2	1847768	12470	1
+
+10	192	Picture	MorphF3_01_noe.jpg	1847904	0	1	7431	2	0	next	hit	381
+
+10	192	Response	1	1855288	7384	1
+
+10	193	Picture	MorphF10_03_orig.jpg	1855335	0	1	7829	3	0	next	hit	383
+
+10	193	Response	1	1863128	7793	1
+
+10	194	Picture	MorphM9_04_nom.jpg	1863164	0	2	8095	3	0	next	incorrect	385
+
+10	194	Response	2	1871128	7964	1
+
+10	195	Picture	MorphM6_00_orig.jpg	1871259	0	1	9289	2	0	next	hit	387
+
+10	195	Response	1	1880488	9229	1
+
+10	196	Picture	MorphF3_08_noe.jpg	1880548	0	1	15127	3	0	next	hit	389
+
+10	196	Response	1	1895608	15060	1
+
+10	197	Picture	MorphF2_01_orig.jpg	1895675	0	2	9536	154	0	next	incorrect	391
+
+10	197	Response	2	1905207	9532	1
+
+10	198	Picture	MorphM5_04_orig.jpg	1905211	0	152	8379	153	0	next	incorrect	393
+
+10	198	Response	2	1913447	8236	1
+
+10	199	Picture	MorphF1_06_nom.jpg	1913590	0	1	12208	2	0	next	incorrect	395
+
+10	199	Response	2	1925767	12177	1
+
+10	200	Picture	MorphF6_09_nom.jpg	1925798	0	1	7431	2	0	next	hit	397
+
+10	200	Response	1	1933127	7329	1
+
+10	201	Picture	MorphF1_05_noe.jpg	1933229	0	1	6502	2	0	next	hit	399
+
+10	201	Response	1	1939607	6378	1
+
+10	202	Picture	MorphM2_10_nom.jpg	1939731	0	1	6104	2	0	next	hit	401
+
+10	202	Response	1	1945767	6036	1
+
+10	203	Picture	MorphM4_04_noe.jpg	1945835	0	1	6104	2	0	next	hit	403
+
+10	203	Response	1	1951847	6012	1
+
+10	204	Picture	MorphM8_04_noe.jpg	1951939	0	1	8493	2	0	next	incorrect	405
+
+10	204	Response	2	1960327	8388	1
+
+10	205	Picture	MorphF6_00_nom.jpg	1960432	0	1	13801	2	0	next	incorrect	407
+
+10	205	Response	2	1974167	13735	1
+
+10	206	Picture	MorphF1_03_noe.jpg	1974233	0	1	9952	2	0	next	hit	409
+
+10	206	Response	1	1984086	9853	1
+
+10	207	Picture	MorphF3_00_orig.jpg	1984185	0	1	9289	2	0	next	incorrect	411
+
+10	207	Response	2	1993366	9181	1
+
+10	208	Picture	MorphM9_10_noe.jpg	1993474	0	1	22426	2	0	next	incorrect	413
+
+10	208	Response	2	2015766	22292	1
+
+10	209	Picture	MorphF5_08_nom.jpg	2015900	0	1	14995	2	0	next	hit	415
+
+10	209	Response	1	2030806	14906	1
+
+10	210	Picture	MorphF1_09_noe.jpg	2030895	0	1	17118	2	0	next	hit	417
+
+10	210	Response	1	2047926	17031	1
+
+10	211	Picture	MorphF5_04_orig.jpg	2048013	0	1	9156	2	0	next	incorrect	419
+
+10	211	Response	2	2057045	9032	1
+
+10	212	Picture	MorphF10_04_noe.jpg	2057169	0	1	7696	2	0	next	hit	421
+
+10	212	Response	1	2064725	7556	1
+
+10	213	Picture	MorphM1_04_nom.jpg	2064865	0	1	9422	2	0	next	incorrect	423
+
+10	213	Response	2	2074166	9301	1
+
+10	214	Picture	MorphF4_04_nom.jpg	2074287	0	1	22559	2	0	next	incorrect	425
+
+10	214	Response	2	2096805	22518	1
+
+10	215	Picture	MorphF8_08_orig.jpg	2096846	0	1	12341	2	0	next	hit	427
+
+10	215	Response	1	2109045	12199	1
+
+10	216	Picture	MorphF5_01_orig.jpg	2109187	0	1	7431	2	0	next	incorrect	429
+
+10	216	Response	2	2116485	7298	1
+
+10	217	Picture	MorphM4_07_nom.jpg	2116618	0	1	20701	2	0	next	incorrect	431
+
+10	217	Response	2	2137205	20587	1
+
+10	218	Picture	MorphM7_07_orig.jpg	2137319	0	1	5440	2	0	next	hit	433
+
+10	218	Response	1	2142724	5405	1
+
+10	219	Picture	MorphF9_00_nom.jpg	2142759	0	1	11014	2	0	next	incorrect	435
+
+10	219	Response	2	2153684	10925	1
+
+10	220	Picture	MorphM10_09_orig.jpg	2153773	0	1	5441	2	0	next	hit	437
+
+10	220	Response	1	2159124	5351	1
+
+10	221	Picture	MorphF2_00_nom.jpg	2159214	0	1	8758	2	0	next	incorrect	439
+
+10	221	Response	2	2167844	8630	1
+
+10	222	Picture	MorphM1_09_orig.jpg	2167972	0	1	7033	2	0	next	hit	441
+
+10	222	Response	1	2174884	6912	1
+
+10	223	Picture	MorphM10_06_noe.jpg	2175005	0	1	10881	2	0	next	hit	443
+
+10	223	Response	1	2185844	10839	1
+
+10	224	Picture	PAUSE	2185886	0	1	600060	2	0	600000	miss	0
+
+10	225	Picture	MorphF9_07_nom.jpg	2785946	0	1	23621	2	0	next	hit	446
+
+10	225	Response	1	2809516	23570	1
+
+10	226	Picture	MorphF5_07_nom.jpg	2809567	0	1	7563	2	0	next	hit	448
+
+10	226	Response	1	2817036	7469	1
+
+10	227	Picture	MorphM4_10_noe.jpg	2817130	0	1	9555	2	0	next	hit	450
+
+10	227	Response	1	2826556	9426	1
+
+10	228	Picture	MorphM3_10_nom.jpg	2826685	0	1	7829	2	0	next	incorrect	452
+
+10	228	Response	2	2834475	7790	1
+
+10	229	Picture	MorphF8_08_nom.jpg	2834514	0	1	11810	2	0	next	hit	454
+
+10	229	Response	1	2846235	11721	1
+
+10	230	Picture	MorphF5_01_nom.jpg	2846324	0	1	8360	2	0	next	incorrect	456
+
+10	230	Response	2	2854635	8311	1
+
+10	231	Picture	MorphM6_03_orig.jpg	2854684	0	1	6635	2	0	next	incorrect	458
+
+10	231	Response	2	2861194	6510	2
+
+10	232	Picture	MorphM1_01_nom.jpg	2861319	0	1	7298	2	0	next	incorrect	460
+
+10	232	Response	2	2868555	7236	1
+
+10	233	Picture	MorphF5_03_noe.jpg	2868617	0	1	8626	2	0	next	incorrect	462
+
+10	233	Response	2	2877195	8578	1
+
+10	234	Picture	MorphM8_03_nom.jpg	2877243	0	1	11677	2	0	next	hit	464
+
+10	234	Response	1	2888874	11631	2
+
+10	235	Picture	MorphM2_04_nom.jpg	2888920	0	1	6358	146	0	next	incorrect	466
+
+10	235	Response	2	2895275	6355	1
+
+10	236	Picture	MorphM9_05_orig.jpg	2895278	0	145	7310	146	0	next	incorrect	468
+
+10	236	Response	2	2902475	7197	1
+
+10	237	Picture	MorphM6_10_nom.jpg	2902588	0	1	6502	2	0	next	hit	470
+
+10	237	Response	1	2908955	6367	1
+
+10	238	Picture	MorphM5_05_noe.jpg	2909090	0	1	6635	2	0	next	hit	472
+
+10	238	Response	1	2915674	6584	1
+
+10	239	Picture	MorphF1_07_orig.jpg	2915725	0	1	6635	2	0	next	hit	474
+
+10	239	Response	1	2922314	6589	1
+
+10	240	Picture	MorphM3_07_noe.jpg	2922360	0	1	6237	2	0	next	incorrect	476
+
+10	240	Response	2	2928554	6194	1
+
+10	241	Picture	MorphF7_02_noe.jpg	2928597	0	1	8758	2	0	next	incorrect	478
+
+10	241	Response	2	2937274	8677	1
+
+10	242	Picture	MorphF10_08_nom.jpg	2937355	0	1	5682	159	0	next	hit	480
+
+10	242	Response	1	2943034	5679	1
+
+10	243	Picture	MorphM1_09_nom.jpg	2943037	0	158	7057	159	0	next	incorrect	482
+
+10	243	Response	2	2949994	6957	1
+
+10	244	Picture	MorphM7_00_orig.jpg	2950094	0	1	22558	3	0	next	incorrect	484
+
+10	244	Response	2	2972554	22460	1
+
+10	245	Picture	MorphF4_00_nom.jpg	2972652	0	2	7299	3	0	next	incorrect	486
+
+10	245	Response	2	2979914	7262	1
+
+10	246	Picture	MorphF1_10_noe.jpg	2979951	0	1	11943	2	0	next	hit	488
+
+10	246	Response	1	2991753	11802	1
+
+10	247	Picture	MorphF4_07_nom.jpg	2991894	0	1	14862	2	0	next	incorrect	490
+
+10	247	Response	2	3006633	14739	1
+
+10	248	Picture	MorphM2_06_nom.jpg	3006756	0	1	5440	3	0	next	incorrect	492
+
+10	248	Response	2	3012073	5317	1
+
+10	249	Picture	MorphM3_08_orig.jpg	3012196	0	2	8228	3	0	next	hit	494
+
+10	249	Response	1	3020393	8197	1
+
+10	250	Picture	MorphF6_10_noe.jpg	3020424	0	1	7829	2	0	next	hit	496
+
+10	250	Response	1	3028153	7729	1
+
+10	251	Picture	MorphM9_10_nom.jpg	3028253	0	1	6104	2	0	next	hit	498
+
+10	251	Response	1	3034313	6060	1
+
+10	252	Picture	MorphM7_01_orig.jpg	3034357	0	1	26009	2	0	next	incorrect	500
+
+10	252	Response	2	3060313	25956	1
+
+10	253	Picture	MorphM6_00_noe.jpg	3060366	0	1	7166	2	0	next	incorrect	502
+
+10	253	Response	2	3067432	7066	1
+
+10	254	Picture	MorphM4_03_nom.jpg	3067532	0	1	10615	2	0	next	incorrect	504
+
+10	254	Response	2	3078072	10540	1
+
+10	255	Picture	MorphF1_08_nom.jpg	3078147	0	1	16986	2	0	next	hit	506
+
+10	255	Response	1	3095032	16885	1
+
+10	256	Picture	MorphM1_08_nom.jpg	3095133	0	1	10350	2	0	next	incorrect	508
+
+10	256	Response	2	3105352	10219	1
+
+10	257	Picture	MorphF9_02_nom.jpg	3105483	0	1	9953	2	0	next	incorrect	510
+
+10	257	Response	2	3115352	9869	1
+
+10	258	Picture	MorphF1_06_orig.jpg	3115436	0	1	9421	2	0	next	hit	512
+
+10	258	Response	1	3124712	9276	1
+
+10	259	Picture	MorphM6_07_noe.jpg	3124857	0	1	13137	2	0	next	incorrect	514
+
+10	259	Response	2	3137912	13055	1
+
+10	260	Picture	MorphM5_10_noe.jpg	3137994	0	1	6237	2	0	next	hit	516
+
+10	260	Response	1	3144151	6157	1
+
+10	261	Picture	MorphM8_02_nom.jpg	3144231	0	1	7564	2	0	next	hit	518
+
+10	261	Response	1	3151671	7440	1
+
+10	262	Picture	MorphF9_05_nom.jpg	3151795	0	1	11014	2	0	next	incorrect	520
+
+10	262	Response	2	3162711	10916	1
+
+10	263	Picture	MorphF2_08_nom.jpg	3162809	0	1	13402	2	0	next	hit	522
+
+10	263	Response	1	3176071	13262	1
+
+10	264	Picture	MorphF6_02_noe.jpg	3176211	0	1	7943	154	0	next	incorrect	524
+
+10	264	Response	2	3184151	7940	1
+
+10	265	Picture	MorphF3_03_noe.jpg	3184154	0	153	9971	154	0	next	hit	526
+
+10	265	Response	1	3193991	9837	1
+
+10	266	Picture	MorphF4_05_nom.jpg	3194125	0	1	7033	2	0	next	incorrect	528
+
+10	266	Response	2	3201111	6986	1
+
+10	267	Picture	MorphF7_09_noe.jpg	3201158	0	1	5839	2	0	next	hit	530
+
+10	267	Response	1	3206871	5713	1
+
+10	268	Picture	MorphM4_04_nom.jpg	3206997	0	1	7033	2	0	next	incorrect	532
+
+10	268	Response	2	3213911	6914	1
+
+10	269	Picture	MorphF8_08_noe.jpg	3214030	0	1	8604	156	0	next	hit	534
+
+10	269	Response	1	3222631	8601	1
+
+10	270	Picture	MorphF1_07_nom.jpg	3222634	0	155	10372	156	0	next	incorrect	536
+
+10	270	Response	2	3232950	10316	1
+
+10	271	Picture	MorphF3_06_nom.jpg	3233006	0	1	16455	2	0	next	hit	538
+
+10	271	Response	1	3249350	16344	1
+
+10	272	Picture	MorphF1_05_orig.jpg	3249461	0	1	23752	3	0	next	hit	540
+
+10	272	Response	1	3273110	23649	1
+
+10	273	Picture	MorphF10_04_nom.jpg	3273213	0	2	7299	3	0	next	hit	542
+
+10	273	Response	1	3280470	7257	1
+
+10	274	Picture	MorphF4_06_nom.jpg	3280512	0	1	7431	2	0	next	hit	544
+
+10	274	Response	1	3287830	7318	1
+
+10	275	Picture	MorphM5_04_nom.jpg	3287943	0	1	8610	150	0	next	incorrect	546
+
+10	275	Response	2	3296550	8607	1
+
+10	276	Picture	MorphF6_00_noe.jpg	3296553	0	149	15408	150	0	next	incorrect	548
+
+10	276	Response	2	3311909	15356	1
+
+10	277	Picture	MorphF1_01_noe.jpg	3311961	0	1	8626	2	0	next	hit	550
+
+10	277	Response	1	3320470	8509	1
+
+10	278	Picture	MorphM2_04_orig.jpg	3320587	0	1	15525	2	0	next	incorrect	552
+
+10	278	Response	2	3336069	15482	1
+
+10	279	Picture	MorphF9_04_noe.jpg	3336112	0	1	11000	149	0	next	incorrect	554
+
+10	279	Response	2	3347109	10997	1
+
+10	280	Picture	MorphM1_04_orig.jpg	3347112	0	148	11280	295	0	next	incorrect	556
+
+10	280	Response	2	3358389	11277	1
+
+10	281	Picture	MorphM3_02_noe.jpg	3358392	0	147	7710	148	0	next	hit	558
+
+10	281	Response	1	3365989	7597	1
+
+10	282	Picture	MorphF8_10_nom.jpg	3366102	0	1	7298	3	0	next	hit	560
+
+10	282	Response	1	3373349	7247	1
+
+10	283	Picture	MorphM4_09_noe.jpg	3373400	0	2	7166	3	0	next	hit	562
+
+10	283	Response	1	3380468	7068	1
+
+10	284	Picture	MorphF2_07_noe.jpg	3380566	0	1	8626	2	0	next	incorrect	564
+
+10	284	Response	2	3389108	8542	1
+
+10	285	Picture	MorphM3_04_noe.jpg	3389192	0	1	17914	2	0	next	hit	566
+
+10	285	Response	1	3407028	17836	1
+
+10	286	Picture	MorphF4_09_orig.jpg	3407106	0	1	25478	2	0	next	hit	568
+
+10	286	Response	1	3432548	25442	1
+
+10	287	Picture	MorphF3_03_orig.jpg	3432584	0	1	8625	2	0	next	incorrect	570
+
+10	287	Response	2	3441108	8524	1
+
+10	288	Picture	MorphM5_01_noe.jpg	3441209	0	1	6370	2	0	next	hit	572
+
+10	288	Response	1	3447508	6299	1
+
+10	289	Picture	MorphM1_07_noe.jpg	3447579	0	1	8890	2	0	next	incorrect	574
+
+10	289	Response	2	3456388	8809	1
+
+10	290	Picture	MorphM7_06_nom.jpg	3456469	0	1	6482	155	0	next	hit	576
+
+10	290	Response	1	3462947	6478	1
+
+10	291	Picture	MorphM9_01_noe.jpg	3462951	0	154	21385	155	0	next	incorrect	578
+
+10	291	Response	2	3484227	21276	1
+
+10	292	Picture	MorphM8_02_orig.jpg	3484336	0	1	23620	2	0	next	hit	580
+
+10	292	Response	1	3507827	23491	1
+
+10	293	Picture	MorphF8_06_nom.jpg	3507956	0	1	23474	149	0	next	incorrect	582
+
+10	293	Response	2	3531427	23471	1
+
+10	294	Picture	MorphF2_06_nom.jpg	3531430	0	148	7578	149	0	next	incorrect	584
+
+10	294	Response	2	3538946	7516	1
+
+10	295	Picture	MorphF10_06_noe.jpg	3539008	0	1	7829	2	0	next	hit	586
+
+10	295	Response	1	3546786	7778	1
+
+10	296	Picture	MorphM8_06_orig.jpg	3546837	0	1	6753	149	0	next	hit	588
+
+10	296	Response	1	3553586	6749	1
+
+10	297	Picture	MorphM5_05_nom.jpg	3553590	0	148	7711	149	0	next	incorrect	590
+
+10	297	Response	2	3561266	7676	1
+
+10	298	Picture	MorphM8_10_orig.jpg	3561301	0	1	8227	2	0	next	hit	592
+
+10	298	Response	1	3569426	8125	1
+
+10	299	Picture	MorphF7_06_noe.jpg	3569528	0	1	15128	2	0	next	hit	594
+
+10	299	Response	1	3584546	15018	1
+
+10	300	Picture	MorphF5_09_nom.jpg	3584656	0	1	5813	28	0	next	hit	596
+
+10	300	Response	1	3590466	5810	1
+
+10	301	Picture	MorphM10_08_nom.jpg	3590469	0	27	8240	173	0	next	hit	598
+
+10	301	Response	1	3598706	8237	1
+
+10	302	Picture	MorphF9_01_orig.jpg	3598709	0	146	8903	147	0	next	incorrect	600
+
+10	302	Response	2	3607506	8797	1
+
+10	303	Picture	MorphF8_09_orig.jpg	3607612	0	1	7962	2	0	next	hit	602
+
+10	303	Response	1	3615505	7893	1
+
+10	304	Picture	MorphF2_09_orig.jpg	3615574	0	1	6901	2	0	next	hit	604
+
+10	304	Response	1	3622385	6811	1
+
+10	305	Picture	MorphM10_01_noe.jpg	3622475	0	1	13402	2	0	next	incorrect	606
+
+10	305	Response	2	3635825	13350	1
+
+10	306	Picture	MorphM3_06_nom.jpg	3635877	0	1	12872	2	0	next	incorrect	608
+
+10	306	Response	2	3648625	12748	1
+
+10	307	Picture	MorphF2_04_orig.jpg	3648749	0	1	7431	2	0	next	incorrect	610
+
+10	307	Response	2	3656145	7396	1
+
+10	308	Picture	MorphF9_10_nom.jpg	3656180	0	1	7696	2	0	next	hit	612
+
+10	308	Response	1	3663825	7645	1
+
+10	309	Picture	MorphM8_07_orig.jpg	3663876	0	1	5839	2	0	next	hit	614
+
+10	309	Response	1	3669585	5709	1
+
+10	310	Picture	MorphF7_07_orig.jpg	3669715	0	1	6104	2	0	next	hit	616
+
+10	310	Response	1	3675745	6030	1
+
+10	311	Picture	MorphM3_01_orig.jpg	3675819	0	1	5574	2	0	next	hit	618
+
+10	311	Response	1	3681265	5446	1
+
+10	312	Picture	MorphM5_08_noe.jpg	3681393	0	1	6502	2	0	next	hit	620
+
+10	312	Response	1	3687825	6432	1
+
+10	313	Picture	MorphM3_01_nom.jpg	3687895	0	1	6502	2	0	next	hit	622
+
+10	313	Response	1	3694304	6409	1
+
+10	314	Picture	MorphM4_02_orig.jpg	3694397	0	1	8071	158	0	next	incorrect	624
+
+10	314	Response	2	3702464	8067	1
+
+10	315	Picture	MorphF8_05_noe.jpg	3702468	0	157	13824	158	0	next	hit	626
+
+10	315	Response	1	3716224	13756	1
+
+10	316	Picture	MorphF10_00_orig.jpg	3716292	0	1	5706	2	0	next	hit	628
+
+10	316	Response	1	3721904	5612	1
+
+10	317	Picture	MorphF2_05_nom.jpg	3721998	0	1	6768	2	0	next	incorrect	630
+
+10	317	Response	2	3728704	6706	1
+
+10	318	Picture	MorphF3_05_nom.jpg	3728766	0	1	12208	2	0	next	incorrect	632
+
+10	318	Response	2	3740944	12178	1
+
+10	319	Picture	MorphM4_05_nom.jpg	3740974	0	1	10881	2	0	next	incorrect	634
+
+10	319	Response	2	3751744	10770	1
+
+10	320	Picture	MorphM5_06_nom.jpg	3751855	0	1	8095	2	0	next	incorrect	636
+
+10	320	Response	2	3759904	8049	1
+
+10	321	Picture	MorphF8_02_orig.jpg	3759950	0	1	7431	2	0	next	incorrect	638
+
+10	321	Response	2	3767344	7394	1
+
+10	322	Picture	MorphM7_02_noe.jpg	3767381	0	1	10748	2	0	next	hit	640
+
+10	322	Response	1	3778063	10682	1
+
+10	323	Picture	MorphM8_05_nom.jpg	3778129	0	1	13270	2	0	next	incorrect	642
+
+10	323	Response	2	3791263	13134	1
+
+10	324	Picture	MorphM4_01_orig.jpg	3791399	0	1	10616	2	0	next	incorrect	644
+
+10	324	Response	2	3801983	10584	1
+
+10	325	Picture	MorphF8_10_orig.jpg	3802015	0	1	7411	155	0	next	hit	646
+
+10	325	Response	1	3809423	7408	1
+
+10	326	Picture	MorphM1_04_noe.jpg	3809426	0	154	10636	155	0	next	incorrect	648
+
+10	326	Response	2	3819983	10557	1
+
+10	327	Picture	MorphM3_05_noe.jpg	3820062	0	1	7564	2	0	next	incorrect	650
+
+10	327	Response	2	3827503	7441	1
+
+10	328	Picture	MorphF9_01_noe.jpg	3827626	0	1	7431	2	0	next	incorrect	652
+
+10	328	Response	2	3835023	7397	1
+
+10	329	Picture	MorphF10_02_nom.jpg	3835057	0	1	10748	2	0	next	incorrect	654
+
+10	329	Response	2	3845742	10685	1
+
+10	330	Picture	MorphF7_05_noe.jpg	3845805	0	1	8626	2	0	next	incorrect	656
+
+10	330	Response	2	3854382	8577	1
+
+10	331	Picture	MorphM3_03_orig.jpg	3854431	0	1	5555	153	0	next	incorrect	658
+
+10	331	Response	2	3859982	5551	1
+
+10	332	Picture	MorphF6_08_orig.jpg	3859986	0	152	6122	153	0	next	hit	660
+
+10	332	Response	1	3866062	6076	1
+
+10	333	Picture	MorphM1_07_nom.jpg	3866108	0	1	6237	2	0	next	incorrect	662
+
+10	333	Response	2	3872223	6115	1
+
+10	334	Picture	MorphM7_06_noe.jpg	3872345	0	1	6104	2	0	next	hit	664
+
+10	334	Response	1	3878382	6037	1
+
+10	335	Picture	MorphF8_05_orig.jpg	3878449	0	1	6900	2	0	next	incorrect	666
+
+10	335	Response	2	3885261	6812	2
+
+10	336	Picture	MorphF6_08_nom.jpg	3885349	0	1	7564	2	0	next	hit	668
+
+10	336	Response	1	3892862	7513	1
+
+10	337	Picture	MorphF2_01_nom.jpg	3892913	0	1	5839	2	0	next	hit	670
+
+10	337	Response	1	3898702	5789	1
+
+10	338	Picture	MorphM8_02_noe.jpg	3898752	0	1	6237	2	0	next	incorrect	672
+
+10	338	Response	2	3904942	6190	1
+
+10	339	Picture	MorphM5_02_orig.jpg	3904989	0	1	10881	2	0	next	hit	674
+
+10	339	Response	1	3915822	10833	1
+
+10	340	Picture	MorphM8_10_noe.jpg	3915870	0	1	18578	2	0	next	hit	676
+
+10	340	Response	1	3934302	18432	1
+
+10	341	Picture	MorphF10_05_nom.jpg	3934448	0	1	9819	2	0	next	hit	678
+
+10	341	Response	1	3944141	9693	1
+
+10	342	Picture	MorphM4_09_orig.jpg	3944267	0	1	7431	2	0	next	incorrect	680
+
+10	342	Response	2	3951581	7314	1
+
+10	343	Picture	MorphM9_02_nom.jpg	3951698	0	1	11280	2	0	next	incorrect	682
+
+10	343	Response	2	3962941	11243	1
+
+10	344	Picture	MorphM1_02_orig.jpg	3962978	0	1	7829	2	0	next	hit	684
+
+10	344	Response	1	3970701	7723	1
+
+10	345	Picture	MorphM10_07_noe.jpg	3970807	0	1	6767	3	0	next	hit	686
+
+10	345	Response	1	3977501	6694	1
+
+10	346	Picture	MorphF10_01_nom.jpg	3977574	0	2	13138	3	0	next	incorrect	688
+
+10	346	Response	2	3990621	13047	1
+
+10	347	Picture	MorphF6_07_orig.jpg	3990712	0	1	6369	2	0	next	hit	690
+
+10	347	Response	1	3996941	6229	1
+
+10	348	Picture	MorphF2_09_nom.jpg	3997081	0	1	11677	3	0	next	hit	692
+
+10	348	Response	1	4008700	11619	1
+
+10	349	Picture	MorphF4_02_orig.jpg	4008758	0	2	9146	146	0	next	incorrect	694
+
+10	349	Response	2	4017900	9142	1
+
+10	350	Picture	MorphF10_03_noe.jpg	4017904	0	144	8371	145	0	next	hit	696
+
+10	350	Response	1	4026140	8236	1
+
+10	351	Picture	MorphM1_02_noe.jpg	4026275	0	1	8094	2	0	next	incorrect	698
+
+10	351	Response	2	4034300	8025	1
+
+10	352	Picture	MorphF10_08_noe.jpg	4034369	0	1	7299	2	0	next	hit	700
+
+10	352	Response	1	4041580	7211	1
+
+10	353	Picture	MorphF6_06_orig.jpg	4041668	0	1	8890	2	0	next	hit	702
+
+10	353	Response	1	4050460	8792	1
+
+10	354	Picture	MorphM3_04_nom.jpg	4050558	0	1	7166	2	0	next	incorrect	704
+
+10	354	Response	2	4057580	7022	1
+
+10	355	Picture	MorphF2_09_noe.jpg	4057724	0	1	10339	146	0	next	incorrect	706
+
+10	355	Response	2	4068060	10336	1
+
+10	356	Picture	MorphF5_00_nom.jpg	4068063	0	145	8637	146	0	next	incorrect	708
+
+10	356	Response	2	4076620	8557	1
+
+10	357	Picture	MorphM4_06_orig.jpg	4076700	0	1	11412	2	0	next	hit	710
+
+10	357	Response	1	4088059	11359	1
+
+10	358	Picture	MorphF9_05_noe.jpg	4088112	0	1	7962	2	0	next	incorrect	712
+
+10	358	Response	2	4095979	7867	1
+
+10	359	Picture	MorphF4_02_noe.jpg	4096074	0	1	5971	2	0	next	incorrect	714
+
+10	359	Response	2	4101979	5905	1
+
+10	360	Picture	MorphM6_10_noe.jpg	4102045	0	1	6768	2	0	next	incorrect	716
+
+10	360	Response	2	4108699	6654	1
+
+10	361	Picture	MorphF9_02_noe.jpg	4108813	0	1	5839	2	0	next	incorrect	718
+
+10	361	Response	2	4114539	5726	1
+
+10	362	Picture	MorphF1_03_orig.jpg	4114652	0	1	7011	156	0	next	hit	720
+
+10	362	Response	1	4121659	7007	1
+
+10	363	Picture	MorphF2_06_orig.jpg	4121663	0	155	6789	156	0	next	incorrect	722
+
+10	363	Response	2	4128379	6716	1
+
+10	364	Picture	MorphM7_10_nom.jpg	4128452	0	1	6768	2	0	next	hit	724
+
+10	364	Response	1	4135099	6647	1
+
+10	365	Picture	MorphM3_06_orig.jpg	4135220	0	1	10748	2	0	next	hit	726
+
+10	365	Response	1	4145899	10679	1
+
+10	366	Picture	MorphM1_00_orig.jpg	4145968	0	1	6236	3	0	next	incorrect	728
+
+10	366	Response	2	4152139	6171	1
+
+10	367	Picture	MorphM8_08_nom.jpg	4152204	0	2	5972	4	0	next	hit	730
+
+10	367	Response	1	4158059	5855	1
+
+10	368	Picture	MorphM4_02_nom.jpg	4158176	0	2	6237	3	0	next	incorrect	732
+
+10	368	Response	2	4164378	6202	1
+
+10	369	Picture	MorphF6_06_nom.jpg	4164413	0	1	8891	2	0	next	hit	734
+
+10	369	Response	1	4173258	8845	1
+
+10	370	Picture	MorphF9_08_orig.jpg	4173304	0	1	6900	2	0	next	hit	736
+
+10	370	Response	1	4180138	6834	1
+
+10	371	Picture	MorphM7_05_nom.jpg	4180204	0	1	9538	151	0	next	hit	738
+
+10	371	Response	1	4189738	9534	1
+
+10	372	Picture	MorphM8_07_nom.jpg	4189742	0	150	6917	151	0	next	hit	740
+
+10	372	Response	1	4196618	6876	1
+
+10	373	Picture	MorphF10_05_orig.jpg	4196659	0	1	6237	2	0	next	hit	742
+
+10	373	Response	1	4202778	6119	1
+
+10	374	Picture	MorphM9_03_nom.jpg	4202896	0	1	7033	2	0	next	incorrect	744
+
+10	374	Response	2	4209818	6922	1
+
+10	375	Picture	MorphF5_08_orig.jpg	4209929	0	1	6236	3	0	next	hit	746
+
+10	375	Response	1	4216058	6129	1
+
+10	376	Picture	MorphM6_06_nom.jpg	4216165	0	2	12341	3	0	next	hit	748
+
+10	376	Response	1	4228458	12293	1
+
+10	377	Picture	MorphM4_05_noe.jpg	4228506	0	1	5839	2	0	next	hit	750
+
+10	377	Response	1	4234297	5791	1
+
+10	378	Picture	MorphM7_02_nom.jpg	4234345	0	1	8360	2	0	next	hit	752
+
+10	378	Response	1	4242617	8272	1
+
+10	379	Picture	MorphF3_04_orig.jpg	4242705	0	1	7564	2	0	next	incorrect	754
+
+10	379	Response	2	4250217	7512	1
+
+10	380	Picture	MorphM2_08_nom.jpg	4250269	0	1	22824	2	0	next	hit	756
+
+10	380	Response	1	4273017	22748	1
+
+10	381	Picture	MorphF7_01_noe.jpg	4273093	0	1	8891	2	0	next	hit	758
+
+10	381	Response	1	4281897	8804	1
+
+10	382	Picture	MorphF1_10_orig.jpg	4281984	0	1	5308	2	0	next	hit	760
+
+10	382	Response	1	4287257	5273	1
+
+10	383	Picture	MorphF7_10_nom.jpg	4287292	0	1	6900	2	0	next	hit	762
+
+10	383	Response	1	4294137	6845	1
+
+10	384	Picture	MorphM4_00_nom.jpg	4294192	0	1	8360	2	0	next	incorrect	764
+
+10	384	Response	2	4302457	8265	1
+
+10	385	Picture	MorphF1_00_orig.jpg	4302552	0	1	14729	2	0	next	incorrect	766
+
+10	385	Response	2	4317176	14624	1
+
+10	386	Picture	MorphM5_07_noe.jpg	4317281	0	1	10616	2	0	next	hit	768
+
+10	386	Response	1	4327816	10535	1
+
+10	387	Picture	MorphF6_08_noe.jpg	4327897	0	1	5839	2	0	next	hit	770
+
+10	387	Response	1	4333656	5759	1
+
+10	388	Picture	MorphM7_04_orig.jpg	4333736	0	1	6369	2	0	next	hit	772
+
+10	388	Response	1	4340056	6320	1
+
+10	389	Picture	MorphM1_00_nom.jpg	4340105	0	1	8493	2	0	next	incorrect	774
+
+10	389	Response	2	4348456	8351	1
+
+10	390	Picture	MorphF3_07_nom.jpg	4348598	0	1	9024	2	0	next	hit	776
+
+10	390	Response	1	4357496	8898	1
+
+10	391	Picture	MorphM10_08_noe.jpg	4357622	0	1	6634	2	0	next	hit	778
+
+10	391	Response	1	4364136	6514	1
+
+10	392	Picture	MorphM5_02_nom.jpg	4364256	0	1	8493	2	0	next	hit	780
+
+10	392	Response	1	4372696	8440	1
+
+10	393	Picture	MorphM8_06_nom.jpg	4372749	0	1	6237	2	0	next	hit	782
+
+10	393	Response	1	4378856	6107	1
+
+10	394	Picture	MorphF8_03_orig.jpg	4378986	0	1	8095	2	0	next	incorrect	784
+
+10	394	Response	2	4386936	7950	1
+
+10	395	Picture	MorphF1_02_nom.jpg	4387081	0	1	6767	2	0	next	hit	786
+
+10	395	Response	1	4393815	6734	1
+
+10	396	Picture	MorphF8_10_noe.jpg	4393848	0	1	18578	2	0	next	hit	788
+
+10	396	Response	1	4412375	18527	1
+
+10	397	Picture	MorphF2_07_orig.jpg	4412426	0	1	8094	2	0	next	hit	790
+
+10	397	Response	1	4420375	7949	1
+
+10	398	Picture	MorphF5_09_orig.jpg	4420520	0	1	7431	3	0	next	hit	792
+
+10	398	Response	1	4427895	7375	1
+
+10	399	Picture	MorphF1_06_noe.jpg	4427951	0	2	11388	160	0	next	hit	794
+
+10	399	Response	1	4439335	11384	1
+
+10	400	Picture	MorphM8_09_noe.jpg	4439339	0	158	5465	159	0	next	hit	796
+
+10	400	Response	1	4444695	5356	1
+
+10	401	Picture	MorphM6_02_nom.jpg	4444804	0	1	6370	2	0	next	hit	798
+
+10	401	Response	1	4451095	6291	1
+
+10	402	Picture	MorphF9_07_orig.jpg	4451174	0	1	6484	153	0	next	hit	800
+
+10	402	Response	1	4457655	6481	1
+
+10	403	Picture	MorphM1_03_orig.jpg	4457658	0	152	10766	153	0	next	incorrect	802
+
+10	403	Response	2	4468375	10717	1
+
+10	404	Picture	MorphF7_00_noe.jpg	4468424	0	1	11412	2	0	next	incorrect	804
+
+10	404	Response	2	4479734	11310	1
+
+10	405	Picture	MorphM3_09_nom.jpg	4479836	0	1	18976	2	0	next	hit	806
+
+10	405	Response	1	4498694	18858	1
+
+10	406	Picture	MorphF3_00_noe.jpg	4498812	0	1	8095	2	0	next	hit	808
+
+10	406	Response	1	4506774	7962	1
+
+10	407	Picture	MorphF4_09_noe.jpg	4506907	0	1	8360	2	0	next	hit	810
+
+10	407	Response	1	4515174	8267	1
+
+10	408	Picture	MorphM2_07_noe.jpg	4515267	0	1	6502	2	0	next	hit	812
+
+10	408	Response	1	4521734	6467	1
+
+10	409	Picture	MorphM5_00_nom.jpg	4521769	0	1	5839	2	0	next	incorrect	814
+
+10	409	Response	2	4527574	5805	1
+
+10	410	Picture	MorphF5_07_noe.jpg	4527608	0	1	12473	2	0	next	hit	816
+
+10	410	Response	1	4539974	12366	1
+
+10	411	Picture	MorphF6_00_orig.jpg	4540081	0	1	6503	2	0	next	hit	818
+
+10	411	Response	1	4546533	6452	1
+
+10	412	Picture	MorphF2_02_nom.jpg	4546584	0	1	22691	2	0	next	hit	820
+
+10	412	Response	1	4569173	22589	1
+
+10	413	Picture	MorphF7_07_noe.jpg	4569275	0	1	11545	2	0	next	hit	822
+
+10	413	Response	1	4580693	11418	1
+
+10	414	Picture	MorphM5_00_noe.jpg	4580820	0	1	10881	2	0	next	hit	824
+
+10	414	Response	1	4591573	10753	1
+
+10	415	Picture	MorphM2_03_nom.jpg	4591701	0	1	12195	148	0	next	incorrect	826
+
+10	415	Response	2	4603893	12192	1
+
+10	416	Picture	MorphF6_10_nom.jpg	4603896	0	147	8771	148	0	next	hit	828
+
+10	416	Response	1	4612613	8717	1
+
+10	417	Picture	MorphM2_10_noe.jpg	4612667	0	1	9289	2	0	next	hit	830
+
+10	417	Response	1	4621813	9146	1
+
+10	418	Picture	MorphM5_02_noe.jpg	4621956	0	1	14580	151	0	next	hit	832
+
+10	418	Response	1	4636532	14576	1
+
+10	419	Picture	MorphF4_08_orig.jpg	4636536	0	150	7182	151	0	next	hit	834
+
+10	419	Response	1	4643572	7036	1
+
+10	420	Picture	MorphF10_01_noe.jpg	4643718	0	1	15792	2	0	next	hit	836
+
+10	420	Response	1	4659412	15694	1
+
+10	421	Picture	MorphF8_09_nom.jpg	4659510	0	1	8866	159	0	next	hit	838
+
+10	421	Response	1	4668372	8862	1
+
+10	422	Picture	MorphF9_02_orig.jpg	4668376	0	158	10773	159	0	next	incorrect	840
+
+10	422	Response	2	4679012	10636	1
+
+10	423	Picture	MorphM5_03_orig.jpg	4679149	0	1	16056	2	0	next	incorrect	842
+
+10	423	Response	2	4695092	15943	1
+
+10	424	Picture	MorphF9_10_orig.jpg	4695205	0	1	7299	2	0	next	hit	844
+
+10	424	Response	1	4702452	7247	1
+
+10	425	Picture	MorphM1_07_orig.jpg	4702504	0	1	16189	2	0	next	incorrect	846
+
+10	425	Response	2	4718611	16107	1
+
+10	426	Picture	MorphF3_01_orig.jpg	4718693	0	1	7696	2	0	next	incorrect	848
+
+10	426	Response	2	4726291	7598	1
+
+10	427	Picture	MorphF2_05_orig.jpg	4726389	0	1	6901	2	0	next	hit	850
+
+10	427	Response	1	4733171	6782	1
+
+10	428	Picture	MorphF6_02_nom.jpg	4733290	0	1	7961	3	0	next	hit	852
+
+10	428	Response	1	4741171	7881	1
+
+10	429	Picture	MorphF7_03_orig.jpg	4741251	0	2	16455	3	0	next	incorrect	854
+
+10	429	Response	2	4757651	16400	1
+
+10	430	Picture	MorphM1_06_nom.jpg	4757706	0	1	11412	2	0	next	incorrect	856
+
+10	430	Response	2	4769011	11305	1
+
+10	431	Picture	MorphF5_03_nom.jpg	4769118	0	1	6104	2	0	next	incorrect	858
+
+10	431	Response	2	4775091	5973	1
+
+10	432	Picture	MorphM3_03_noe.jpg	4775222	0	1	12872	2	0	next	incorrect	860
+
+10	432	Response	2	4787970	12748	1
+
+10	433	Picture	MorphF10_10_noe.jpg	4788094	0	1	8891	2	0	next	hit	862
+
+10	433	Response	1	4796930	8836	1
+
+10	434	Picture	MorphM5_05_orig.jpg	4796985	0	1	18312	2	0	next	hit	864
+
+10	434	Response	1	4815170	18185	1
+
+10	435	Picture	MorphF4_02_nom.jpg	4815297	0	1	6369	3	0	next	hit	866
+
+10	435	Response	1	4821570	6273	1
+
+10	436	Picture	MorphF10_09_nom.jpg	4821666	0	2	7962	3	0	next	hit	868
+
+10	436	Response	1	4829490	7824	1
+
+10	437	Picture	MorphM6_06_noe.jpg	4829628	0	1	7431	3	0	next	incorrect	870
+
+10	437	Response	2	4836930	7302	1
+
+10	438	Picture	MorphM9_06_noe.jpg	4837059	0	2	5972	3	0	next	incorrect	872
+
+10	438	Response	2	4842930	5871	1
+
+10	439	Picture	MorphM6_02_orig.jpg	4843031	0	1	6104	2	0	next	incorrect	874
+
+10	439	Response	2	4849090	6059	1
+
+10	440	Picture	MorphM5_04_noe.jpg	4849135	0	1	21232	2	0	next	hit	876
+
+10	440	Response	1	4870289	21154	1
+
+10	441	Picture	MorphM3_04_orig.jpg	4870367	0	1	7962	2	0	next	incorrect	878
+
+10	441	Response	2	4878209	7842	1
+
+10	442	Picture	MorphF9_09_noe.jpg	4878329	0	1	8492	2	0	next	incorrect	880
+
+10	442	Response	2	4886689	8360	1
+
+10	443	Picture	MorphF5_04_noe.jpg	4886821	0	1	13270	2	0	next	incorrect	882
+
+10	443	Response	2	4899969	13148	1
+
+10	444	Picture	MorphM7_07_noe.jpg	4900091	0	1	6502	2	0	next	hit	884
+
+10	444	Response	1	4906529	6438	1
+
+10	445	Picture	PAUSE	4906593	0	1	600061	2	0	600000	miss	0
+
+10	446	Picture	MorphM4_06_nom.jpg	5506654	0	1	12191	152	0	next	incorrect	887
+
+10	446	Response	2	5518841	12187	1
+
+10	447	Picture	MorphM7_05_noe.jpg	5518845	0	151	6652	152	0	next	hit	889
+
+10	447	Response	1	5525401	6556	1
+
+10	448	Picture	MorphM2_00_nom.jpg	5525497	0	1	8758	2	0	next	incorrect	891
+
+10	448	Response	2	5534121	8624	1
+
+10	449	Picture	MorphM6_01_noe.jpg	5534255	0	1	13535	2	0	next	incorrect	893
+
+10	449	Response	2	5547721	13466	1
+
+10	450	Picture	MorphF4_01_noe.jpg	5547790	0	1	5971	2	0	next	incorrect	895
+
+10	450	Response	2	5553721	5931	1
+
+10	451	Picture	MorphF7_01_orig.jpg	5553761	0	1	5839	2	0	next	incorrect	897
+
+10	451	Response	2	5559560	5799	1
+
+10	452	Picture	MorphF1_03_nom.jpg	5559600	0	1	6502	2	0	next	incorrect	899
+
+10	452	Response	2	5565960	6360	1
+
+10	453	Picture	MorphM7_04_noe.jpg	5566102	0	1	6901	2	0	next	hit	901
+
+10	453	Response	1	5572920	6818	1
+
+10	454	Picture	MorphF10_03_nom.jpg	5573003	0	1	6104	2	0	next	hit	903
+
+10	454	Response	1	5579000	5997	1
+
+10	455	Picture	MorphF6_04_noe.jpg	5579107	0	1	5706	2	0	next	incorrect	905
+
+10	455	Response	2	5584760	5653	1
+
+10	456	Picture	MorphM1_00_noe.jpg	5584813	0	1	7151	149	0	next	incorrect	907
+
+10	456	Response	2	5591960	7147	1
+
+10	457	Picture	MorphM2_02_noe.jpg	5591964	0	148	6517	149	0	next	incorrect	909
+
+10	457	Response	2	5598360	6396	1
+
+10	458	Picture	MorphF1_04_orig.jpg	5598481	0	1	7829	2	0	next	incorrect	911
+
+10	458	Response	2	5606280	7799	1
+
+10	459	Picture	MorphF7_10_noe.jpg	5606310	0	1	5706	2	0	next	hit	913
+
+10	459	Response	1	5611960	5650	1
+
+10	460	Picture	MorphM6_10_orig.jpg	5612016	0	1	5042	2	0	next	hit	915
+
+10	460	Response	1	5616920	4904	1
+
+10	461	Picture	MorphM5_06_noe.jpg	5617058	0	1	6237	2	0	next	hit	917
+
+10	461	Response	1	5623160	6102	1
+
+10	462	Picture	MorphF9_09_nom.jpg	5623295	0	1	6900	2	0	next	hit	919
+
+10	462	Response	1	5630120	6825	1
+
+10	463	Picture	MorphF7_04_nom.jpg	5630195	0	1	8095	2	0	next	hit	921
+
+10	463	Response	1	5638200	8005	1
+
+10	464	Picture	MorphM1_02_nom.jpg	5638290	0	1	5971	2	0	next	incorrect	923
+
+10	464	Response	2	5644199	5909	1
+
+10	465	Picture	MorphM6_01_nom.jpg	5644261	0	1	8228	2	0	next	incorrect	925
+
+10	465	Response	2	5652439	8178	1
+
+10	466	Picture	MorphF10_04_orig.jpg	5652489	0	1	5971	2	0	next	hit	927
+
+10	466	Response	1	5658359	5870	1
+
+10	467	Picture	MorphF3_06_noe.jpg	5658460	0	1	6635	2	0	next	hit	929
+
+10	467	Response	1	5664999	6539	1
+
+10	468	Picture	MorphF9_08_nom.jpg	5665095	0	1	7033	2	0	next	hit	931
+
+10	468	Response	1	5672039	6944	1
+
+10	469	Picture	MorphM3_08_nom.jpg	5672128	0	1	6768	2	0	next	hit	933
+
+10	469	Response	1	5678759	6631	1
+
+10	470	Picture	MorphF4_06_orig.jpg	5678896	0	1	6369	2	0	next	hit	935
+
+10	470	Response	1	5685159	6263	1
+
+10	471	Picture	MorphF8_04_nom.jpg	5685265	0	1	7018	150	0	next	incorrect	937
+
+10	471	Response	2	5692279	7014	1
+
+10	472	Picture	MorphM9_06_orig.jpg	5692283	0	149	6239	296	0	next	incorrect	939
+
+10	472	Response	2	5698518	6235	2
+
+10	473	Picture	MorphF3_02_noe.jpg	5698522	0	147	7179	148	0	next	hit	941
+
+10	473	Response	1	5705639	7117	1
+
+10	474	Picture	MorphF5_01_noe.jpg	5705701	0	1	9023	2	0	next	incorrect	943
+
+10	474	Response	2	5714599	8898	1
+
+10	475	Picture	MorphF4_00_noe.jpg	5714724	0	1	8227	2	0	next	incorrect	945
+
+10	475	Response	2	5722838	8114	1
+
+10	476	Picture	MorphM2_07_nom.jpg	5722951	0	1	7299	2	0	next	hit	947
+
+10	476	Response	1	5730118	7167	1
+
+10	477	Picture	MorphF2_07_nom.jpg	5730250	0	1	6352	152	0	next	hit	949
+
+10	477	Response	1	5736598	6348	1
+
+10	478	Picture	MorphM3_09_orig.jpg	5736602	0	151	8908	152	0	next	hit	951
+
+10	478	Response	1	5745478	8876	1
+
+10	479	Picture	MorphF2_06_noe.jpg	5745510	0	1	7962	2	0	next	hit	953
+
+10	479	Response	1	5753398	7888	1
+
+10	480	Picture	MorphM9_09_noe.jpg	5753472	0	1	7166	2	0	next	hit	955
+
+10	480	Response	1	5760518	7046	1
+
+10	481	Picture	MorphM6_05_nom.jpg	5760638	0	1	9687	2	0	next	hit	957
+
+10	481	Response	1	5770198	9560	1
+
+10	482	Picture	MorphF5_06_noe.jpg	5770325	0	1	9288	2	0	next	hit	959
+
+10	482	Response	1	5779478	9153	1
+
+10	483	Picture	MorphF9_03_orig.jpg	5779613	0	1	8360	2	0	next	incorrect	961
+
+10	483	Response	2	5787878	8265	1
+
+10	484	Picture	MorphF3_08_orig.jpg	5787973	0	1	10616	2	0	next	hit	963
+
+10	484	Response	1	5798518	10545	1
+
+10	485	Picture	MorphF2_10_noe.jpg	5798589	0	1	6502	2	0	next	hit	965
+
+10	485	Response	1	5804997	6408	1
+
+10	486	Picture	MorphM4_05_orig.jpg	5805091	0	1	13801	2	0	next	hit	967
+
+10	486	Response	1	5818757	13666	1
+
+10	487	Picture	MorphM9_01_nom.jpg	5818892	0	1	7962	2	0	next	incorrect	969
+
+10	487	Response	2	5826757	7865	1
+
+10	488	Picture	MorphM1_03_noe.jpg	5826854	0	1	8758	2	0	next	incorrect	971
+
+10	488	Response	2	5835557	8703	1
+
+10	489	Picture	MorphM6_05_noe.jpg	5835612	0	1	8348	147	0	next	incorrect	973
+
+10	489	Response	2	5843956	8344	2
+
+10	490	Picture	MorphM5_03_nom.jpg	5843960	0	146	11557	147	0	next	hit	975
+
+10	490	Response	1	5855397	11437	1
+
+10	491	Picture	MorphF5_08_noe.jpg	5855517	0	1	7431	2	0	next	hit	977
+
+10	491	Response	1	5862837	7320	1
+
+10	492	Picture	MorphM3_05_nom.jpg	5862948	0	1	9012	146	0	next	hit	979
+
+10	492	Response	1	5871957	9009	1
+
+10	493	Picture	MorphF10_09_noe.jpg	5871960	0	145	7177	146	0	next	hit	981
+
+10	493	Response	1	5879076	7116	1
+
+10	494	Picture	MorphM10_00_orig.jpg	5879137	0	1	5839	2	0	next	hit	983
+
+10	494	Response	1	5884836	5699	1
+
+10	495	Picture	MorphM6_04_noe.jpg	5884976	0	1	13784	151	0	next	incorrect	985
+
+10	495	Response	2	5898756	13780	1
+
+10	496	Picture	MorphF4_04_noe.jpg	5898760	0	150	11428	151	0	next	incorrect	987
+
+10	496	Response	2	5910116	11356	1
+
+10	497	Picture	MorphM4_08_nom.jpg	5910188	0	1	11147	2	0	next	hit	989
+
+10	497	Response	1	5921236	11048	1
+
+10	498	Picture	MorphM9_00_orig.jpg	5921335	0	1	6624	146	0	next	incorrect	991
+
+10	498	Response	2	5927956	6621	1
+
+10	499	Picture	MorphF6_03_nom.jpg	5927959	0	145	9167	146	0	next	hit	993
+
+10	499	Response	1	5936996	9037	1
+
+10	500	Picture	MorphM7_00_noe.jpg	5937126	0	1	15127	3	0	next	incorrect	995
+
+10	500	Response	2	5952196	15070	1
+
+10	501	Picture	MorphF9_06_orig.jpg	5952253	0	2	10616	3	0	next	hit	997
+
+10	501	Response	1	5962756	10503	1
+
+10	502	Picture	MorphM5_09_noe.jpg	5962869	0	1	21232	2	0	next	hit	999
+
+10	502	Response	1	5984034	21165	2
+
+10	503	Picture	MorphM6_03_nom.jpg	5984101	0	1	24658	159	0	next	incorrect	1001
+
+10	503	Response	2	6008755	24654	1
+
+10	504	Picture	MorphF10_02_orig.jpg	6008759	0	158	7039	310	0	next	hit	1003
+
+10	504	Response	1	6015795	7036	1
+
+10	505	Picture	MorphM6_08_noe.jpg	6015798	0	152	7582	153	0	next	incorrect	1005
+
+10	505	Response	2	6023314	7516	2
+
+10	506	Picture	MorphF6_06_noe.jpg	6023380	0	1	11014	2	0	next	hit	1007
+
+10	506	Response	1	6034354	10974	1
+
+10	507	Picture	MorphF2_04_nom.jpg	6034394	0	1	23620	2	0	next	hit	1009
+
+10	507	Response	1	6057874	23480	1
+
+10	508	Picture	MorphF1_05_nom.jpg	6058014	0	1	8758	2	0	next	incorrect	1011
+
+10	508	Response	2	6066674	8660	1
+
+10	509	Picture	MorphF6_07_noe.jpg	6066772	0	1	9289	2	0	next	hit	1013
+
+10	509	Response	1	6075954	9182	1
+
+10	510	Picture	MorphM2_06_orig.jpg	6076061	0	1	6767	2	0	next	incorrect	1015
+
+10	510	Response	2	6082754	6693	1
+
+10	511	Picture	MorphF2_08_noe.jpg	6082828	0	1	8626	2	0	next	hit	1017
+
+10	511	Response	1	6091394	8566	1
+
+10	512	Picture	MorphM10_00_noe.jpg	6091454	0	1	14862	2	0	next	incorrect	1019
+
+10	512	Response	2	6106274	14820	1
+
+10	513	Picture	MorphM6_08_orig.jpg	6106316	0	1	11146	3	0	next	hit	1021
+
+10	513	Response	1	6117393	11077	1
+
+10	514	Picture	MorphF5_06_nom.jpg	6117462	0	2	7962	3	0	next	hit	1023
+
+10	514	Response	1	6125313	7851	1
+
+10	515	Picture	MorphM8_00_nom.jpg	6125424	0	1	6104	3	0	next	hit	1025
+
+10	515	Response	1	6131393	5969	1
+
+10	516	Picture	MorphM10_02_orig.jpg	6131528	0	2	6635	3	0	next	incorrect	1027
+
+10	516	Response	2	6138033	6505	1
+
+10	517	Picture	MorphF9_08_noe.jpg	6138163	0	1	9820	2	0	next	hit	1029
+
+10	517	Response	1	6147953	9790	1
+
+10	518	Picture	MorphF3_07_orig.jpg	6147983	0	1	7014	154	0	next	incorrect	1031
+
+10	518	Response	2	6154993	7010	1
+
+10	519	Picture	MorphF2_01_noe.jpg	6154997	0	153	6787	154	0	next	hit	1033
+
+10	519	Response	1	6161713	6716	1
+
+10	520	Picture	MorphM4_09_nom.jpg	6161784	0	1	13402	2	0	next	hit	1035
+
+10	520	Response	1	6175073	13289	1
+
+10	521	Picture	MorphF4_10_noe.jpg	6175186	0	1	16587	2	0	next	hit	1037
+
+10	521	Response	1	6191713	16527	1
+
+10	522	Picture	MorphM1_08_noe.jpg	6191773	0	1	11412	2	0	next	hit	1039
+
+10	522	Response	1	6203152	11379	1
+
+10	523	Picture	MorphF7_10_orig.jpg	6203185	0	1	6105	2	0	next	hit	1041
+
+10	523	Response	1	6209152	5967	1
+
+10	524	Picture	MorphF2_10_orig.jpg	6209290	0	1	9686	3	0	next	hit	1043
+
+10	524	Response	1	6218912	9622	1
+
+10	525	Picture	MorphF10_02_noe.jpg	6218976	0	2	10882	3	0	next	hit	1045
+
+10	525	Response	1	6229791	10815	2
+
+10	526	Picture	MorphM10_04_noe.jpg	6229858	0	1	6237	2	0	next	hit	1047
+
+10	526	Response	1	6235952	6094	1
+
+10	527	Picture	MorphM4_08_noe.jpg	6236095	0	1	6236	2	0	next	hit	1049
+
+10	527	Response	1	6242192	6097	1
+
+10	528	Picture	MorphF4_06_noe.jpg	6242331	0	1	7166	2	0	next	hit	1051
+
+10	528	Response	1	6249392	7061	1
+
+10	529	Picture	MorphM2_08_noe.jpg	6249497	0	1	7962	2	0	next	hit	1053
+
+10	529	Response	1	6257392	7895	1
+
+10	530	Picture	MorphM8_08_orig.jpg	6257459	0	1	5971	2	0	next	hit	1055
+
+10	530	Response	1	6263312	5853	1
+
+10	531	Picture	MorphF7_04_orig.jpg	6263430	0	1	8095	2	0	next	incorrect	1057
+
+10	531	Response	2	6271392	7962	1
+
+10	532	Picture	MorphF3_06_orig.jpg	6271525	0	1	8493	2	0	next	hit	1059
+
+10	532	Response	1	6279871	8346	1
+
+10	533	Picture	MorphF2_08_orig.jpg	6280018	0	1	5706	2	0	next	hit	1061
+
+10	533	Response	1	6285631	5613	1
+
+10	534	Picture	MorphM6_09_orig.jpg	6285724	0	1	4909	2	0	next	hit	1063
+
+10	534	Response	1	6290591	4867	1
+
+10	535	Picture	MorphM9_10_orig.jpg	6290633	0	1	4910	2	0	next	hit	1065
+
+10	535	Response	1	6295471	4838	1
+
+10	536	Picture	MorphF3_10_nom.jpg	6295543	0	1	7431	2	0	next	hit	1067
+
+10	536	Response	1	6302831	7288	1
+
+10	537	Picture	MorphF5_05_orig.jpg	6302974	0	1	10218	2	0	next	hit	1069
+
+10	537	Response	1	6313151	10177	1
+
+10	538	Picture	MorphF7_00_orig.jpg	6313192	0	1	8625	2	0	next	incorrect	1071
+
+10	538	Response	2	6321711	8519	1
+
+10	539	Picture	MorphF2_04_noe.jpg	6321817	0	1	6768	2	0	next	hit	1073
+
+10	539	Response	1	6328511	6694	1
+
+10	540	Picture	MorphM3_02_nom.jpg	6328585	0	1	6370	2	0	next	hit	1075
+
+10	540	Response	1	6334831	6246	1
+
+10	541	Picture	MorphM2_08_orig.jpg	6334955	0	1	7563	2	0	next	hit	1077
+
+10	541	Response	1	6342431	7476	1
+
+10	542	Picture	MorphF10_10_nom.jpg	6342518	0	1	7697	2	0	next	hit	1079
+
+10	542	Response	1	6350110	7592	1
+
+10	543	Picture	MorphM5_08_nom.jpg	6350215	0	1	6619	150	0	next	hit	1081
+
+10	543	Response	1	6356830	6615	1
+
+10	544	Picture	MorphM6_01_orig.jpg	6356834	0	149	8243	150	0	next	hit	1083
+
+10	544	Response	1	6364990	8156	1
+
+10	545	Picture	MorphM9_02_noe.jpg	6365077	0	1	9277	147	0	next	incorrect	1085
+
+10	545	Response	2	6374350	9273	1
+
+10	546	Picture	MorphF4_07_orig.jpg	6374354	0	146	6912	147	0	next	hit	1087
+
+10	546	Response	1	6381150	6796	1
+
+10	547	Picture	MorphM6_09_nom.jpg	6381266	0	1	10483	2	0	next	hit	1089
+
+10	547	Response	1	6391630	10364	1
+
+10	548	Picture	MorphF10_10_orig.jpg	6391749	0	1	6104	2	0	next	hit	1091
+
+10	548	Response	1	6397710	5961	1
+
+10	549	Picture	MorphF5_09_noe.jpg	6397853	0	1	6503	2	0	next	hit	1093
+
+10	549	Response	1	6404270	6417	1
+
+10	550	Picture	MorphF3_10_orig.jpg	6404356	0	1	9277	146	0	next	hit	1095
+
+10	550	Response	1	6413630	9274	1
+
+10	551	Picture	MorphM7_10_orig.jpg	6413633	0	145	4921	146	0	next	hit	1097
+
+10	551	Response	1	6418430	4797	1
+
+10	552	Picture	MorphF1_02_orig.jpg	6418554	0	1	9289	2	0	next	incorrect	1099
+
+10	552	Response	2	6427709	9155	1
+
+10	553	Picture	MorphM7_09_nom.jpg	6427843	0	1	6750	152	0	next	hit	1101
+
+10	553	Response	1	6434589	6746	1
+
+10	554	Picture	MorphM10_04_orig.jpg	6434593	0	151	6255	152	0	next	hit	1103
+
+10	554	Response	1	6440749	6156	1
+
+10	555	Picture	MorphF1_00_nom.jpg	6440848	0	1	11677	2	0	next	incorrect	1105
+
+10	555	Response	2	6452429	11581	1
+
+10	556	Picture	MorphM7_09_noe.jpg	6452525	0	1	5971	2	0	next	hit	1107
+
+10	556	Response	1	6458429	5904	1
+
+10	557	Picture	MorphM4_00_noe.jpg	6458496	0	1	6635	2	0	next	hit	1109
+
+10	557	Response	1	6465069	6573	1
+
+10	558	Picture	MorphM2_05_orig.jpg	6465131	0	1	8742	151	0	next	incorrect	1111
+
+10	558	Response	2	6473869	8738	1
+
+10	559	Picture	MorphF1_10_nom.jpg	6473873	0	150	6120	151	0	next	hit	1113
+
+10	559	Response	1	6479869	5996	1
+
+10	560	Picture	MorphF5_10_nom.jpg	6479993	0	1	6768	2	0	next	hit	1115
+
+10	560	Response	1	6486669	6676	1
+
+10	561	Picture	MorphM10_10_nom.jpg	6486761	0	1	5573	2	0	next	hit	1117
+
+10	561	Response	1	6492189	5428	1
+
+10	562	Picture	MorphF4_10_nom.jpg	6492334	0	1	6370	2	0	next	hit	1119
+
+10	562	Response	1	6498589	6255	1
+
+10	563	Picture	MorphM3_08_noe.jpg	6498704	0	1	7564	2	0	next	hit	1121
+
+10	563	Response	1	6506188	7484	1
+
+10	564	Picture	MorphM7_07_nom.jpg	6506268	0	1	7431	2	0	next	hit	1123
+
+10	564	Response	1	6513628	7360	1
+
+10	565	Picture	MorphF6_04_orig.jpg	6513699	0	1	6767	2	0	next	hit	1125
+
+10	565	Response	1	6520428	6729	1
+
+10	566	Picture	MorphM9_01_orig.jpg	6520466	0	1	7299	2	0	next	incorrect	1127
+
+10	566	Response	2	6527628	7162	1
+
+10	567	Picture	MorphM5_01_nom.jpg	6527765	0	1	13137	2	0	next	hit	1129
+
+10	567	Response	1	6540828	13063	1
+
+10	568	Picture	MorphM3_02_orig.jpg	6540902	0	1	6237	2	0	next	hit	1131
+
+10	568	Response	1	6547068	6166	1
+
+10	569	Picture	MorphM8_01_orig.jpg	6547139	0	1	5573	2	0	next	hit	1133
+
+10	569	Response	1	6552588	5449	1
+
+10	570	Picture	MorphM5_00_orig.jpg	6552712	0	1	7696	2	0	next	incorrect	1135
+
+10	570	Response	2	6560268	7556	1
+
+10	571	Picture	MorphF1_08_orig.jpg	6560408	0	1	9157	2	0	next	hit	1137
+
+10	571	Response	1	6569468	9060	1
+
+10	572	Picture	MorphM6_00_nom.jpg	6569565	0	1	8890	2	0	next	incorrect	1139
+
+10	572	Response	2	6578347	8782	1
+
+10	573	Picture	MorphF7_08_nom.jpg	6578455	0	1	6370	2	0	next	hit	1141
+
+10	573	Response	1	6584748	6293	1
+
+10	574	Picture	MorphF10_09_orig.jpg	6584825	0	1	5839	2	0	next	hit	1143
+
+10	574	Response	1	6590587	5762	1
+
+10	575	Picture	MorphF9_09_orig.jpg	6590664	0	1	5706	2	0	next	hit	1145
+
+10	575	Response	1	6596267	5603	1
+
+10	576	Picture	MorphF1_08_noe.jpg	6596370	0	1	9288	3	0	next	hit	1147
+
+10	576	Response	1	6605627	9257	1
+
+10	577	Picture	MorphF3_03_nom.jpg	6605658	0	2	9422	3	0	next	incorrect	1149
+
+10	577	Response	2	6614987	9329	1
+
+10	578	Picture	MorphM4_06_noe.jpg	6615080	0	1	5573	2	0	next	hit	1151
+
+10	578	Response	1	6620507	5427	1
+
+10	579	Picture	MorphM2_04_noe.jpg	6620653	0	1	5706	2	0	next	hit	1153
+
+10	579	Response	1	6626267	5614	1
+
+10	580	Picture	MorphF2_03_nom.jpg	6626359	0	1	5972	2	0	next	hit	1155
+
+10	580	Response	1	6632187	5828	1
+
+10	581	Picture	MorphM7_01_nom.jpg	6632331	0	1	6104	2	0	next	hit	1157
+
+10	581	Response	1	6638347	6016	1
+
+10	582	Picture	MorphF10_07_orig.jpg	6638435	0	1	5971	2	0	next	hit	1159
+
+10	582	Response	1	6644347	5912	1
+
+10	583	Picture	MorphM6_04_nom.jpg	6644406	0	1	5839	2	0	next	hit	1161
+
+10	583	Response	1	6650107	5701	1
+
+10	584	Picture	MorphF6_01_nom.jpg	6650245	0	1	5308	2	0	next	hit	1163
+
+10	584	Response	1	6655466	5221	1
+
+10	585	Picture	MorphM8_05_noe.jpg	6655553	0	1	10085	2	0	next	incorrect	1165
+
+10	585	Response	2	6665546	9993	1
+
+10	586	Picture	MorphF2_05_noe.jpg	6665638	0	1	4632	147	0	next	hit	1167
+
+10	586	Response	1	6670266	4628	1
+
+10	587	Picture	MorphM7_01_noe.jpg	6670270	0	146	5840	291	0	next	hit	1169
+
+10	587	Response	1	6676106	5836	1
+
+10	588	Picture	MorphF8_06_orig.jpg	6676110	0	145	23631	146	0	next	incorrect	1171
+
+10	588	Response	2	6699626	23516	1
+
+10	589	Picture	MorphF10_08_orig.jpg	6699741	0	1	5574	2	0	next	hit	1173
+
+10	589	Response	1	6705226	5485	1
+
+10	590	Picture	MorphM5_07_orig.jpg	6705315	0	1	10085	2	0	next	hit	1175
+
+10	590	Response	1	6715306	9991	1
+
+10	591	Picture	MorphM2_03_orig.jpg	6715400	0	1	6767	2	0	next	incorrect	1177
+
+10	591	Response	2	6722106	6706	1
+
+10	592	Picture	MorphM3_00_noe.jpg	6722167	0	1	6635	2	0	next	hit	1179
+
+10	592	Response	1	6728746	6579	1
+
+10	593	Picture	MorphM9_00_nom.jpg	6728802	0	1	7033	2	0	next	incorrect	1181
+
+10	593	Response	2	6735705	6903	1
+
+10	594	Picture	MorphM10_05_orig.jpg	6735835	0	1	5043	2	0	next	hit	1183
+
+10	594	Response	1	6740825	4990	1
+
+10	595	Picture	MorphM5_03_noe.jpg	6740878	0	1	7431	2	0	next	hit	1185
+
+10	595	Response	1	6748185	7307	1
+
+10	596	Picture	MorphM9_08_noe.jpg	6748309	0	1	13402	2	0	next	hit	1187
+
+10	596	Response	1	6761625	13316	1
+
+10	597	Picture	MorphM10_07_orig.jpg	6761711	0	1	5176	2	0	next	hit	1189
+
+10	597	Response	1	6766745	5034	1
+
+10	598	Picture	MorphM2_07_orig.jpg	6766887	0	1	9142	148	0	next	hit	1191
+
+10	598	Response	1	6776025	9138	1
+
+10	599	Picture	MorphM8_08_noe.jpg	6776029	0	147	6914	148	0	next	hit	1193
+
+10	599	Response	1	6782905	6876	1
+
+10	600	Picture	MorphF4_01_orig.jpg	6782943	0	1	6502	2	0	next	incorrect	1195
+
+10	600	Response	2	6789385	6442	1
+
+10	601	Picture	MorphM7_08_orig.jpg	6789445	0	1	5839	2	0	next	hit	1197
+
+10	601	Response	1	6795145	5700	1
+
+10	602	Picture	MorphF4_03_orig.jpg	6795284	0	1	9156	2	0	next	incorrect	1199
+
+10	602	Response	2	6804344	9060	2
+
+10	603	Picture	MorphM2_00_orig.jpg	6804440	0	1	12341	2	0	next	incorrect	1201
+
+10	603	Response	2	6816664	12224	1
+
+10	604	Picture	MorphM8_06_noe.jpg	6816781	0	1	9952	2	0	next	incorrect	1203
+
+10	604	Response	2	6826664	9883	1
+
+10	605	Picture	MorphM5_09_nom.jpg	6826733	0	1	6635	2	0	next	hit	1205
+
+10	605	Response	1	6833304	6571	1
+
+10	606	Picture	MorphF1_01_nom.jpg	6833368	0	1	7564	2	0	next	incorrect	1207
+
+10	606	Response	2	6840824	7456	1
+
+10	607	Picture	MorphF2_03_orig.jpg	6840932	0	1	7298	2	0	next	hit	1209
+
+10	607	Response	1	6848184	7252	1
+
+10	608	Picture	MorphF9_00_orig.jpg	6848230	0	1	5958	149	0	next	incorrect	1211
+
+10	608	Response	2	6854184	5954	1
+
+10	609	Picture	MorphF2_10_nom.jpg	6854188	0	148	7578	149	0	next	hit	1213
+
+10	609	Response	1	6861704	7516	1
+
+10	610	Picture	MorphF1_04_nom.jpg	6861766	0	1	10748	2	0	next	incorrect	1215
+
+10	610	Response	2	6872424	10658	1
+
+10	611	Picture	MorphF3_07_noe.jpg	6872514	0	1	5441	2	0	next	hit	1217
+
+10	611	Response	1	6877864	5350	1
+
+10	612	Picture	MorphM1_08_orig.jpg	6877955	0	1	17516	2	0	next	hit	1219
+
+10	612	Response	1	6895383	17428	1
+
+10	613	Picture	MorphF3_05_orig.jpg	6895471	0	1	7166	2	0	next	hit	1221
+
+10	613	Response	1	6902583	7112	1
+
+10	614	Picture	MorphF4_03_noe.jpg	6902637	0	1	12473	2	0	next	hit	1223
+
+10	614	Response	1	6915063	12426	1
+
+10	615	Picture	MorphM1_10_noe.jpg	6915110	0	1	6237	2	0	next	hit	1225
+
+10	615	Response	1	6921224	6114	1
+
+10	616	Picture	MorphM5_01_orig.jpg	6921347	0	1	6370	2	0	next	hit	1227
+
+10	616	Response	1	6927623	6276	1
+
+10	617	Picture	MorphF10_06_orig.jpg	6927717	0	1	7298	2	0	next	hit	1229
+
+10	617	Response	1	6934983	7266	1
+
+10	618	Picture	MorphM9_09_orig.jpg	6935015	0	1	6635	2	0	next	hit	1231
+
+10	618	Response	1	6941543	6528	1
+
+10	619	Picture	MorphM4_07_noe.jpg	6941650	0	1	16587	2	0	next	hit	1233
+
+10	619	Response	1	6958103	16453	1
+
+10	620	Picture	MorphM5_06_orig.jpg	6958237	0	1	9554	2	0	next	hit	1235
+
+10	620	Response	1	6967702	9465	1
+
+10	621	Picture	MorphF6_05_nom.jpg	6967791	0	1	6237	2	0	next	hit	1237
+
+10	621	Response	1	6973942	6151	1
+
+10	622	Picture	MorphM7_06_orig.jpg	6974028	0	1	5573	2	0	next	hit	1239
+
+10	622	Response	1	6979542	5514	1
+
+10	623	Picture	MorphM4_00_orig.jpg	6979601	0	1	7166	2	0	next	incorrect	1241
+
+10	623	Response	2	6986662	7061	1
+
+10	624	Picture	MorphF7_04_noe.jpg	6986767	0	1	7299	2	0	next	hit	1243
+
+10	624	Response	1	6994022	7255	1
+
+10	625	Picture	MorphF5_06_orig.jpg	6994066	0	1	8758	2	0	next	hit	1245
+
+10	625	Response	1	7002742	8676	1
+
+10	626	Picture	MorphF6_01_orig.jpg	7002824	0	1	6482	155	0	next	hit	1247
+
+10	626	Response	1	7009302	6478	1
+
+10	627	Picture	MorphF8_05_nom.jpg	7009306	0	154	6240	304	0	next	hit	1249
+
+10	627	Response	1	7015542	6236	1
+
+10	628	Picture	MorphF2_02_orig.jpg	7015546	0	150	6121	151	0	next	hit	1251
+
+10	628	Response	1	7021542	5996	1
+
+10	629	Picture	MorphF6_05_noe.jpg	7021667	0	1	8625	2	0	next	hit	1253
+
+10	629	Response	1	7030182	8515	1
+
+10	630	Picture	MorphF8_03_nom.jpg	7030292	0	1	12076	2	0	next	hit	1255
+
+10	630	Response	1	7042262	11970	1
+
+10	631	Picture	MorphF4_10_orig.jpg	7042368	0	1	7961	3	0	next	hit	1257
+
+10	631	Response	1	7050261	7893	1
+
+10	632	Picture	MorphF8_04_noe.jpg	7050329	0	2	11014	3	0	next	hit	1259
+
+10	632	Response	1	7061301	10972	1
+
+10	633	Picture	MorphF6_01_noe.jpg	7061343	0	1	15242	153	0	next	incorrect	1261
+
+10	633	Response	2	7076581	15238	1
+
+10	634	Picture	MorphM3_03_nom.jpg	7076585	0	152	9175	153	0	next	hit	1263
+
+10	634	Response	1	7085621	9036	1
+
+10	635	Picture	MorphM4_03_orig.jpg	7085760	0	1	6237	2	0	next	hit	1265
+
+10	635	Response	1	7091941	6181	1
+
+10	636	Picture	MorphF7_05_orig.jpg	7091997	0	1	15260	2	0	next	incorrect	1267
+
+10	636	Response	2	7107221	15224	1
+
+10	637	Picture	MorphF3_09_nom.jpg	7107257	0	1	8094	3	0	next	hit	1269
+
+10	637	Response	1	7115221	7964	1
+
+10	638	Picture	MorphM3_07_nom.jpg	7115351	0	2	6105	3	0	next	hit	1271
+
+10	638	Response	1	7121381	6030	1
+
+10	639	Picture	MorphM10_10_noe.jpg	7121456	0	1	6767	2	0	next	hit	1273
+
+10	639	Response	1	7128100	6644	1
+
+10	640	Picture	MorphM7_03_noe.jpg	7128223	0	1	6237	2	0	next	hit	1275
+
+10	640	Response	1	7134340	6117	1
+
+10	641	Picture	MorphM2_02_orig.jpg	7134460	0	1	7033	2	0	next	incorrect	1277
+
+10	641	Response	2	7141380	6920	1
+
+10	642	Picture	MorphF8_07_nom.jpg	7141493	0	1	6900	2	0	next	hit	1279
+
+10	642	Response	1	7148260	6767	1
+
+10	643	Picture	MorphF6_03_orig.jpg	7148393	0	1	8626	2	0	next	hit	1281
+
+10	643	Response	1	7156980	8587	1
+
+10	644	Picture	MorphF9_00_noe.jpg	7157019	0	1	9289	2	0	next	incorrect	1283
+
+10	644	Response	2	7166260	9241	1
+
+10	645	Picture	MorphM5_07_nom.jpg	7166308	0	1	5706	2	0	next	hit	1285
+
+10	645	Response	1	7171940	5632	1
+
+10	646	Picture	MorphF10_00_nom.jpg	7172014	0	1	7563	2	0	next	hit	1287
+
+10	646	Response	1	7179460	7446	1
+
+10	647	Picture	MorphM4_10_nom.jpg	7179577	0	1	9820	2	0	next	hit	1289
+
+10	647	Response	1	7189300	9723	1
+
+10	648	Picture	MorphF5_02_orig.jpg	7189397	0	1	8891	2	0	next	incorrect	1291
+
+10	648	Response	2	7198180	8783	1
+
+10	649	Picture	MorphF7_06_orig.jpg	7198288	0	1	10881	2	0	next	hit	1293
+
+10	649	Response	1	7209139	10851	1
+
+10	650	Picture	MorphM3_06_noe.jpg	7209169	0	1	9422	2	0	next	hit	1295
+
+10	650	Response	1	7218499	9330	1
+
+10	651	Picture	MorphM8_01_nom.jpg	7218591	0	1	7033	2	0	next	hit	1297
+
+10	651	Response	1	7225539	6948	1
+
+10	652	Picture	MorphM4_03_noe.jpg	7225624	0	1	10748	2	0	next	hit	1299
+
+10	652	Response	1	7236259	10635	1
+
+10	653	Picture	MorphM7_00_nom.jpg	7236372	0	1	6502	2	0	next	hit	1301
+
+10	653	Response	1	7242819	6447	1
+
+10	654	Picture	MorphM6_04_orig.jpg	7242874	0	1	25744	2	0	next	incorrect	1303
+
+10	654	Response	2	7268579	25705	1
+
+10	655	Picture	MorphM1_01_noe.jpg	7268618	0	1	6104	2	0	next	hit	1305
+
+10	655	Response	1	7274659	6041	1
+
+10	656	Picture	MorphF8_06_noe.jpg	7274722	0	1	7431	2	0	next	incorrect	1307
+
+10	656	Response	2	7282018	7296	1
+
+10	657	Picture	MorphM6_03_noe.jpg	7282153	0	1	4777	2	0	next	hit	1309
+
+10	657	Response	1	7286818	4665	1
+
+10	658	Picture	MorphM9_05_nom.jpg	7286930	0	1	19905	2	0	next	incorrect	1311
+
+10	658	Response	2	7306738	19808	1
+
+10	659	Picture	MorphM7_10_noe.jpg	7306835	0	1	6635	2	0	next	hit	1313
+
+10	659	Response	1	7313378	6543	1
+
+10	660	Picture	MorphM4_04_orig.jpg	7313470	0	1	7298	2	0	next	hit	1315
+
+10	660	Response	1	7320658	7188	1
+
+10	661	Picture	MorphF10_06_nom.jpg	7320768	0	1	6502	2	0	next	hit	1317
+
+10	661	Response	1	7327138	6370	1
+
+10	662	Picture	MorphM1_10_nom.jpg	7327270	0	1	6237	2	0	next	hit	1319
+
+10	662	Response	1	7333458	6188	1
+
+10	663	Picture	MorphF4_07_noe.jpg	7333507	0	1	8095	2	0	next	hit	1321
+
+10	663	Response	1	7341458	7951	1
+
+10	664	Picture	MorphM3_01_noe.jpg	7341602	0	1	15791	2	0	next	incorrect	1323
+
+10	664	Response	2	7357298	15696	1
+
+10	665	Picture	MorphM9_09_nom.jpg	7357393	0	1	8094	2	0	next	hit	1325
+
+10	665	Response	1	7365377	7984	1
+
+10	666	Picture	end_ins	7365487	0	1	3278915	2	0	next	other	0
+
+10	666	Response	3	10636626	3271139	1
+
