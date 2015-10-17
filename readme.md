@@ -34,8 +34,8 @@ Finally, you will find the experiment files for all participants. These require 
 
 ### Requirements
 
-Data analysis was performed with Python 2.7.9 [www.python.org](www.python.org) using mainly NumPy, SciPy,
-Pandas, Matplotlib, Seaborn and Jupyter, all as provided with Anaconda 2.2.0 (Continuum Analytics; [docs.continuum.io/anaconda](docs.continuum.io/anaconda)).
+Data analysis was performed with Python 2.7.9 [www.python.org](http://www.python.org) using mainly NumPy, SciPy,
+Pandas, Matplotlib, Seaborn and Jupyter, all as provided with Anaconda 2.2.0 (Continuum Analytics; [docs.continuum.io/anaconda](http://docs.continuum.io/anaconda)).
 
 ### Contact
 
