@@ -1,10 +1,17 @@
 
 #Categorical Perception of Fear and Anger Expressions in Whole, Masked and Composite Faces
 
-Martin Wegrzyn, Isabelle Bruckhaus & Johanna Kissler
+Martin Wegrzyn, Isabelle Bruckhaus & Johanna Kissler  
 
 Published: August 11, 2015  
 [DOI: 10.1371/journal.pone.0134790](http://dx.doi.org/10.1371/journal.pone.0134790)
+
+### Abstract
+
+Human observers are remarkably proficient at recognizing expressions of emotions and at readily grouping them into distinct categories. When morphing one facial expression into another, the linear changes in low-level features are insufficient to describe the changes in perception, which instead follow an s-shaped function. Important questions are, whether there are single diagnostic regions in the face that drive categorical perception for certain parings of emotion expressions, and how information in those regions interacts when presented together.
+We report results from two experiments with morphed fear-anger expressions, where (a) half of the face was masked or (b) composite faces made up of different expressions were presented. When isolated upper and lower halves of faces were shown, the eyes were found to
+be almost as diagnostic as the whole face, with the response function showing a steep category boundary. In contrast, the mouth allowed for a substantially lesser amount of accuracy and responses followed a much flatter psychometric function. When a composite face consisting of mismatched upper and lower halves was used and observers were instructed to exclusively judge either the expression of mouth or eyes, the to-be-ignored part always influenced perception of the target region. In line with experiment 1, the eye region exerted a much stronger influence on mouth judgements than vice versa. Again, categorical perception was significantly more pronounced for upper halves of faces. The present study shows that identification of fear and anger in morphed faces relies heavily on information from the upper half of the face, most likely the eye region. Categorical perception is possible when only the upper face half is present, but compromised when only the lower part is shown. Moreover, observers tend to integrate all available features of a face, even when trying to focus on only one part.
+
 
 ### About
 
@@ -34,9 +41,8 @@ Finally, you will find the experiment files for all participants. These require 
 
 ### Requirements
 
-Data analysis was performed with Python 2.7.9 [www.python.org](http://www.python.org) using mainly NumPy, SciPy,
-Pandas, Matplotlib, Seaborn and Jupyter, all as provided with Anaconda 2.2.0 (Continuum Analytics; [docs.continuum.io/anaconda](http://docs.continuum.io/anaconda)).
+Data analysis was performed with Python 2.7.9 [www.python.org](http://www.python.org) using mainly NumPy, SciPy, Pandas, Matplotlib, Seaborn and the IPython Notebook/Jupyter, all as provided with Anaconda 2.2.0 (Continuum Analytics; [docs.continuum.io/anaconda](http://docs.continuum.io/anaconda)).
 
 ### Contact
 
-For questions and suggestions please write to [martin.wegrzyn@uni-bielefeld.de](mailto:martin.wegrzyn@uni-bielefeld.de)  
+For questions or comments please write to [martin.wegrzyn@uni-bielefeld.de](mailto:martin.wegrzyn@uni-bielefeld.de)  
