@@ -1,5 +1,5 @@
 
-#Categorical Perception of Fear and Anger Expressions in Whole, Masked and Composite Faces
+# Categorical Perception of Fear and Anger Expressions in Whole, Masked and Composite Faces
 
 Martin Wegrzyn, Isabelle Bruckhaus & Johanna Kissler  
 
